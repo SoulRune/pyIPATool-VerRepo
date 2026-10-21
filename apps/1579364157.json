@@ -1,0 +1,71 @@
+{
+ "appId": 1579364157,
+ "arcade": true,
+ "bundleId": "com.ironhidegames.frontiers.universal.premium",
+ "latestExternalVersionId": "884113172",
+ "name": "Kingdom Rush Frontiers TD+",
+ "schema": 1,
+ "updatedAt": "2026-10-21T14:18:40Z",
+ "versions": {
+  "843399187": {
+   "ageRating": "13+",
+   "artist": "Ironhide S.A.",
+   "build": "28",
+   "checkedAt": "2026-10-21T14:18:40Z",
+   "copyright": "© Ironhide Game Studio",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDate": "2021-10-07T00:00:00",
+   "releaseDateDisplay": "2021-10-07",
+   "size": 233150470,
+   "status": "ok",
+   "version": "5.4.15"
+  },
+  "846421577": {
+   "ageRating": "13+",
+   "artist": "Ironhide S.A.",
+   "build": "1",
+   "checkedAt": "2026-10-21T14:18:35Z",
+   "copyright": "© Ironhide Game Studio",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDate": "2022-01-11T00:00:00",
+   "releaseDateDisplay": "2022-01-11",
+   "size": 297830955,
+   "status": "ok",
+   "version": "5.6.16"
+  },
+  "853132100": {
+   "ageRating": "13+",
+   "artist": "Ironhide S.A.",
+   "build": "1",
+   "checkedAt": "2026-10-21T14:18:30Z",
+   "copyright": "© Ironhide Game Studio",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDate": "2022-11-08T00:00:00",
+   "releaseDateDisplay": "2022-11-08",
+   "size": 297780017,
+   "status": "ok",
+   "version": "5.8.05"
+  },
+  "884113172": {
+   "ageRating": "13+",
+   "artist": "Ironhide S.A.",
+   "build": "2",
+   "checkedAt": "2026-10-21T14:18:29Z",
+   "copyright": "© Ironhide Game Studio",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDate": "2026-04-21T00:00:00",
+   "releaseDateDisplay": "2026-04-21",
+   "size": 299260086,
+   "status": "ok",
+   "version": "6.4.24"
+  }
+ }
+}
