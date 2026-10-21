@@ -1,0 +1,55 @@
+{
+ "appId": 6502513973,
+ "arcade": true,
+ "bundleId": "com.lively.pawpaw",
+ "latestExternalVersionId": "892293206",
+ "name": "Pusheen’s Place",
+ "schema": 1,
+ "updatedAt": "2026-10-21T14:40:33Z",
+ "versions": {
+  "865829666": {
+   "ageRating": "4+",
+   "artist": "Electric Square Ltd",
+   "build": "5768.383645",
+   "checkedAt": "2026-10-21T14:40:33Z",
+   "copyright": "© 2024 Electric Square Ltd",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "16.0",
+   "releaseDate": "2026-09-01T00:00:00",
+   "releaseDateDisplay": "2026-09-01",
+   "size": 351860669,
+   "status": "ok",
+   "version": "0.9.1"
+  },
+  "891809384": {
+   "ageRating": "4+",
+   "artist": "Electric Square Ltd",
+   "build": "6085.388096",
+   "checkedAt": "2026-10-21T14:40:28Z",
+   "copyright": "© 2024 Electric Square Ltd",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "16.0",
+   "releaseDateDisplay": "Unknown (2026-10-01)",
+   "size": 358668202,
+   "status": "ok",
+   "version": "1.0.0"
+  },
+  "892293206": {
+   "ageRating": "4+",
+   "artist": "Electric Square Ltd",
+   "build": "6138.389248",
+   "checkedAt": "2026-10-21T14:40:26Z",
+   "copyright": "© 2024 Electric Square Ltd",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "16.0",
+   "releaseDate": "2026-10-05T00:00:00",
+   "releaseDateDisplay": "2026-10-05",
+   "size": 358667999,
+   "status": "ok",
+   "version": "1.0.1"
+  }
+ }
+}
