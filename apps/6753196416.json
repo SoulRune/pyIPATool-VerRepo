@@ -1,0 +1,27 @@
+{
+ "appId": 6753196416,
+ "arcade": true,
+ "bundleId": "com.blacksaltgames.dredgeplus",
+ "latestExternalVersionId": "884344863",
+ "name": "DREDGE+",
+ "schema": 1,
+ "updatedAt": "2026-10-21T07:27:51Z",
+ "versions": {
+  "878549808": {
+   "build": "62",
+   "checkedAt": "2026-10-21T07:27:51Z",
+   "listedByApple": true,
+   "size": 729880930,
+   "status": "ok",
+   "version": "1.5.19"
+  },
+  "884344863": {
+   "build": "66",
+   "checkedAt": "2026-10-21T07:27:49Z",
+   "listedByApple": true,
+   "size": 729883762,
+   "status": "ok",
+   "version": "1.5.21"
+  }
+ }
+}
