@@ -1,0 +1,71 @@
+{
+ "appId": 6702028686,
+ "arcade": true,
+ "bundleId": "com.atari.mobile.rctclassicasg",
+ "latestExternalVersionId": "875738953",
+ "name": "RollerCoaster Tycoon® Classic+",
+ "schema": 1,
+ "updatedAt": "2026-10-21T14:41:36Z",
+ "versions": {
+  "869157774": {
+   "ageRating": "4+",
+   "artist": "Atari",
+   "build": "12",
+   "checkedAt": "2026-10-21T14:41:36Z",
+   "copyright": "© 2025 Atari and the Atari logo are registered trademarks of Atari Interactive, Inc. RollerCoaster Tycoon® Classic © Chris Sawyer 1999-2025. All Rights Reserved.",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13",
+   "releaseDate": "2025-02-27T00:00:00",
+   "releaseDateDisplay": "2025-02-27",
+   "size": 270411288,
+   "status": "ok",
+   "version": "1.0.0"
+  },
+  "873005705": {
+   "ageRating": "4+",
+   "artist": "Atari",
+   "build": "13",
+   "checkedAt": "2026-10-21T14:41:31Z",
+   "copyright": "© 2025 Atari and the Atari logo are registered trademarks of Atari Interactive, Inc. RollerCoaster Tycoon® Classic © Chris Sawyer 1999-2025. All Rights Reserved.",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13",
+   "releaseDate": "2025-03-10T00:00:00",
+   "releaseDateDisplay": "2025-03-10",
+   "size": 270413484,
+   "status": "ok",
+   "version": "1.0.393"
+  },
+  "873767972": {
+   "ageRating": "4+",
+   "artist": "Atari",
+   "build": "15",
+   "checkedAt": "2026-10-21T14:41:26Z",
+   "copyright": "© 2025 Atari and the Atari logo are registered trademarks of Atari Interactive, Inc. RollerCoaster Tycoon® Classic © Chris Sawyer 1999-2025. All Rights Reserved.",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13",
+   "releaseDate": "2025-04-06T00:00:00",
+   "releaseDateDisplay": "2025-04-06",
+   "size": 276952614,
+   "status": "ok",
+   "version": "1.0.414"
+  },
+  "875738953": {
+   "ageRating": "4+",
+   "artist": "Atari",
+   "build": "17",
+   "checkedAt": "2026-10-21T14:41:21Z",
+   "copyright": "© 2025 Atari and the Atari logo are registered trademarks of Atari Interactive, Inc. RollerCoaster Tycoon® Classic © Chris Sawyer 1999-2025. All Rights Reserved.",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13",
+   "releaseDate": "2025-06-27T00:00:00",
+   "releaseDateDisplay": "2025-06-27",
+   "size": 276959599,
+   "status": "ok",
+   "version": "1.0.435"
+  }
+ }
+}
