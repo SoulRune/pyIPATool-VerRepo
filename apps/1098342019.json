@@ -5,13 +5,13 @@
  "latestExternalVersionId": "891379731",
  "name": "Sneaky Sasquatch",
  "schema": 1,
- "updatedAt": "2026-10-21T10:23:07Z",
+ "updatedAt": "2026-10-21T11:59:22Z",
  "versions": {
   "816904780": {
    "checkedAt": "2026-10-21T07:27:04Z",
    "error": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
    "lastError": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
-   "lastErrorAt": "2026-10-21T10:23:07Z",
+   "lastErrorAt": "2026-10-21T11:59:22Z",
    "listedByApple": true,
    "status": "lost"
   },
@@ -19,7 +19,7 @@
    "checkedAt": "2026-10-21T07:26:51Z",
    "error": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
    "lastError": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
-   "lastErrorAt": "2026-10-21T10:22:54Z",
+   "lastErrorAt": "2026-10-21T11:59:09Z",
    "listedByApple": true,
    "status": "lost"
   },
@@ -27,7 +27,7 @@
    "checkedAt": "2026-10-21T07:26:38Z",
    "error": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
    "lastError": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
-   "lastErrorAt": "2026-10-21T10:22:42Z",
+   "lastErrorAt": "2026-10-21T11:58:55Z",
    "listedByApple": true,
    "status": "lost"
   },
@@ -35,7 +35,7 @@
    "checkedAt": "2026-10-21T07:26:25Z",
    "error": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
    "lastError": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
-   "lastErrorAt": "2026-10-21T10:22:29Z",
+   "lastErrorAt": "2026-10-21T11:58:42Z",
    "listedByApple": true,
    "status": "lost"
   },
@@ -57,7 +57,7 @@
    "checkedAt": "2026-10-21T07:26:00Z",
    "error": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
    "lastError": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
-   "lastErrorAt": "2026-10-21T10:22:17Z",
+   "lastErrorAt": "2026-10-21T11:58:29Z",
    "listedByApple": true,
    "status": "lost"
   },
