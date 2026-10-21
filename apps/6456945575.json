@@ -1,0 +1,414 @@
+{
+ "appId": 6456945575,
+ "arcade": true,
+ "bundleId": "com.gameloft.DisneyDreamlightValley.arcade",
+ "latestExternalVersionId": "892696264",
+ "name": "Disney Dreamlight Valley",
+ "schema": 1,
+ "updatedAt": "2026-10-21T08:24:02Z",
+ "versions": {
+  "858905675": {
+   "build": "139635",
+   "checkedAt": "2026-10-21T08:24:02Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "size": 3224797986,
+   "status": "ok",
+   "version": "1.8.0"
+  },
+  "861128030": {
+   "build": "152729",
+   "checkedAt": "2026-10-21T08:24:00Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "size": 3526292459,
+   "status": "ok",
+   "version": "1.8.1"
+  },
+  "861778057": {
+   "build": "153090",
+   "checkedAt": "2026-10-21T08:23:58Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "size": 3517935588,
+   "status": "ok",
+   "version": "1.8.2"
+  },
+  "861890346": {
+   "build": "153144",
+   "checkedAt": "2026-10-21T08:23:55Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "size": 3517933731,
+   "status": "ok",
+   "version": "1.8.3"
+  },
+  "862123468": {
+   "build": "153303",
+   "checkedAt": "2026-10-21T08:23:53Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "size": 3501161646,
+   "status": "ok",
+   "version": "1.8.5"
+  },
+  "862218512": {
+   "build": "153419",
+   "checkedAt": "2026-10-21T08:23:51Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "size": 3501267152,
+   "status": "ok",
+   "version": "1.8.6"
+  },
+  "862865045": {
+   "build": "153466",
+   "checkedAt": "2026-10-21T08:23:48Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "size": 3501610660,
+   "status": "ok",
+   "version": "1.8.7"
+  },
+  "863655964": {
+   "build": "162296",
+   "checkedAt": "2026-10-21T08:23:45Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "size": 3139939089,
+   "status": "ok",
+   "version": "1.9.0"
+  },
+  "865273675": {
+   "build": "172036",
+   "checkedAt": "2026-10-21T08:23:43Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "size": 3538468046,
+   "status": "ok",
+   "version": "1.10.0"
+  },
+  "865618881": {
+   "build": "172083",
+   "checkedAt": "2026-10-21T08:23:27Z",
+   "listedByApple": true,
+   "size": 3538423398,
+   "status": "ok",
+   "version": "1.10.1"
+  },
+  "865747187": {
+   "build": "172142",
+   "checkedAt": "2026-10-21T08:23:10Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "size": 3540251480,
+   "status": "ok",
+   "version": "1.10.2"
+  },
+  "866608081": {
+   "build": "179791",
+   "checkedAt": "2026-10-21T08:22:59Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "size": 3297492043,
+   "status": "ok",
+   "version": "1.11.0"
+  },
+  "868044661": {
+   "build": "187469",
+   "checkedAt": "2026-10-21T08:22:50Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "size": 3246667830,
+   "status": "ok",
+   "version": "1.12.0"
+  },
+  "868446306": {
+   "build": "187545",
+   "checkedAt": "2026-10-21T08:22:48Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "size": 3246741505,
+   "status": "ok",
+   "version": "1.12.1"
+  },
+  "868870098": {
+   "build": "187568",
+   "checkedAt": "2026-10-21T08:22:45Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "size": 3247385225,
+   "status": "ok",
+   "version": "1.12.2"
+  },
+  "869275749": {
+   "build": "193291",
+   "checkedAt": "2026-10-21T08:22:43Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "size": 3404219411,
+   "status": "ok",
+   "version": "1.13.1"
+  },
+  "870271440": {
+   "build": "204293",
+   "checkedAt": "2026-10-21T08:22:41Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2024-11-20T00:00:00",
+   "size": 3421606851,
+   "status": "ok",
+   "version": "1.14.1"
+  },
+  "870670908": {
+   "build": "207834",
+   "checkedAt": "2026-10-21T08:22:39Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2024-12-04T00:00:00",
+   "size": 3416627797,
+   "status": "ok",
+   "version": "1.14.3"
+  },
+  "871011003": {
+   "build": "207939",
+   "checkedAt": "2026-10-21T08:22:37Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2024-12-12T00:00:00",
+   "size": 3416719638,
+   "status": "ok",
+   "version": "1.14.4"
+  },
+  "872569555": {
+   "build": "215865",
+   "checkedAt": "2026-10-21T08:22:34Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2025-02-26T00:00:00",
+   "size": 3541024169,
+   "status": "ok",
+   "version": "1.15.0"
+  },
+  "872789018": {
+   "build": "215865",
+   "checkedAt": "2026-10-21T08:22:32Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2025-02-26T00:00:00",
+   "size": 3541024169,
+   "status": "ok",
+   "version": "1.15.0"
+  },
+  "873150025": {
+   "build": "224065",
+   "checkedAt": "2026-10-21T08:22:30Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2025-04-23T00:00:00",
+   "size": 3331147887,
+   "status": "ok",
+   "version": "1.16.0"
+  },
+  "874373587": {
+   "build": "224138",
+   "checkedAt": "2026-10-21T08:22:27Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2025-05-07T00:00:00",
+   "size": 3331372844,
+   "status": "ok",
+   "version": "1.16.1"
+  },
+  "875441327": {
+   "build": "231312",
+   "checkedAt": "2026-10-21T08:22:23Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2025-06-18T00:00:00",
+   "size": 3421706632,
+   "status": "ok",
+   "version": "1.17.0"
+  },
+  "876079383": {
+   "build": "235340",
+   "checkedAt": "2026-10-21T08:22:20Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2025-07-09T00:00:00",
+   "size": 3545320218,
+   "status": "ok",
+   "version": "1.17.10"
+  },
+  "876414695": {
+   "build": "235405",
+   "checkedAt": "2026-10-21T08:22:17Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2025-07-25T00:00:00",
+   "size": 3545947090,
+   "status": "ok",
+   "version": "1.17.12"
+  },
+  "877000779": {
+   "build": "241270",
+   "checkedAt": "2026-10-21T08:22:15Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2025-08-20T00:00:00",
+   "size": 3573344705,
+   "status": "ok",
+   "version": "1.18.0"
+  },
+  "878338983": {
+   "build": "247594",
+   "checkedAt": "2026-10-21T08:22:12Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2025-10-01T00:00:00",
+   "size": 3577267466,
+   "status": "ok",
+   "version": "1.19.0"
+  },
+  "878738672": {
+   "build": "247667",
+   "checkedAt": "2026-10-21T08:22:10Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2025-10-09T00:00:00",
+   "size": 3577291518,
+   "status": "ok",
+   "version": "1.19.1"
+  },
+  "879501051": {
+   "build": "261348",
+   "checkedAt": "2026-10-21T08:22:07Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2025-11-19T00:00:00",
+   "size": 2936140445,
+   "status": "ok",
+   "version": "1.20.1"
+  },
+  "879913381": {
+   "build": "261392",
+   "checkedAt": "2026-10-21T08:22:05Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2025-11-21T00:00:00",
+   "size": 2931916735,
+   "status": "ok",
+   "version": "1.20.2"
+  },
+  "880123712": {
+   "build": "267626",
+   "checkedAt": "2026-10-21T08:22:03Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2025-12-10T00:00:00",
+   "size": 3064443688,
+   "status": "ok",
+   "version": "1.20.10"
+  },
+  "880692805": {
+   "build": "274723",
+   "checkedAt": "2026-10-21T08:22:01Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2026-02-11T00:00:00",
+   "size": 3193236356,
+   "status": "ok",
+   "version": "1.21.0"
+  },
+  "882719552": {
+   "build": "282522",
+   "checkedAt": "2026-10-21T08:21:59Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2026-04-08T00:00:00",
+   "size": 3341176842,
+   "status": "ok",
+   "version": "1.22.0"
+  },
+  "886110408": {
+   "build": "290762",
+   "checkedAt": "2026-10-21T08:21:57Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2026-06-03T00:00:00",
+   "size": 3476949891,
+   "status": "ok",
+   "version": "1.23.1"
+  },
+  "887355678": {
+   "build": "299456",
+   "checkedAt": "2026-10-21T08:21:55Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2026-07-08T00:00:00",
+   "size": 3473524116,
+   "status": "ok",
+   "version": "1.24.1"
+  },
+  "888577884": {
+   "build": "304843",
+   "checkedAt": "2026-10-21T08:21:53Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2026-07-29T00:00:00",
+   "size": 3536673048,
+   "status": "ok",
+   "version": "1.24.10"
+  },
+  "889027331": {
+   "build": "304867",
+   "checkedAt": "2026-10-21T08:21:50Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2026-07-31T00:00:00",
+   "size": 3536676690,
+   "status": "ok",
+   "version": "1.24.11"
+  },
+  "889254493": {
+   "build": "304937",
+   "checkedAt": "2026-10-21T08:21:48Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2026-08-04T00:00:00",
+   "size": 3536792897,
+   "status": "ok",
+   "version": "1.24.12"
+  },
+  "889401330": {
+   "build": "304943",
+   "checkedAt": "2026-10-21T08:21:46Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2026-08-07T00:00:00",
+   "size": 3536794729,
+   "status": "ok",
+   "version": "1.24.13"
+  },
+  "891420259": {
+   "build": "313243",
+   "checkedAt": "2026-10-21T08:21:44Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2026-09-23T00:00:00",
+   "size": 3352539779,
+   "status": "ok",
+   "version": "1.25.0"
+  },
+  "892696264": {
+   "build": "313309",
+   "checkedAt": "2026-10-21T08:21:42Z",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "releaseDate": "2026-10-09T00:00:00",
+   "size": 3374329066,
+   "status": "ok",
+   "version": "1.25.3"
+  }
+ }
+}
