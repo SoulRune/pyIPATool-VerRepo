@@ -1,0 +1,89 @@
+{
+ "appId": 6741771054,
+ "arcade": true,
+ "bundleId": "com.ironhidegames.kingdomrush.alliance.universal.premium",
+ "latestExternalVersionId": "883353061",
+ "name": "Kingdom Rush 5: Alliance TD+",
+ "schema": 1,
+ "updatedAt": "2026-10-21T12:24:41Z",
+ "versions": {
+  "872385717": {
+   "listedByApple": true,
+   "status": "unknown"
+  },
+  "876140257": {
+   "listedByApple": true,
+   "status": "unknown"
+  },
+  "878039645": {
+   "ageRating": "9+",
+   "artist": "Ironhide S.A.",
+   "build": "1",
+   "checkedAt": "2026-10-21T12:24:41Z",
+   "copyright": "© Ironhide Game Studio",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDateDisplay": "Unknown (2025-07-03)",
+   "size": 831388815,
+   "status": "ok",
+   "version": "6.00.112"
+  },
+  "878992781": {
+   "ageRating": "9+",
+   "artist": "Ironhide S.A.",
+   "build": "1",
+   "checkedAt": "2026-10-21T12:24:36Z",
+   "copyright": "© Ironhide Game Studio",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDateDisplay": "Unknown (2025-07-03)",
+   "size": 832114386,
+   "status": "ok",
+   "version": "6.00.128"
+  },
+  "882708495": {
+   "ageRating": "9+",
+   "artist": "Ironhide S.A.",
+   "build": "2",
+   "checkedAt": "2026-10-21T12:24:31Z",
+   "copyright": "© Ironhide Game Studio",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDateDisplay": "Unknown (2025-07-03)",
+   "size": 960496102,
+   "status": "ok",
+   "version": "7.00.36"
+  },
+  "883274794": {
+   "ageRating": "9+",
+   "artist": "Ironhide S.A.",
+   "build": "1",
+   "checkedAt": "2026-10-21T12:24:25Z",
+   "copyright": "© Ironhide Game Studio",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDateDisplay": "Unknown (2025-07-03)",
+   "size": 960529801,
+   "status": "ok",
+   "version": "7.00.56"
+  },
+  "883353061": {
+   "ageRating": "9+",
+   "artist": "Ironhide S.A.",
+   "build": "1",
+   "checkedAt": "2026-10-21T12:24:20Z",
+   "copyright": "© Ironhide Game Studio",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDateDisplay": "Unknown (2025-07-03)",
+   "size": 960570110,
+   "status": "ok",
+   "version": "7.00.62"
+  }
+ }
+}
