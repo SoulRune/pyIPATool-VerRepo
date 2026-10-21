@@ -5,7 +5,7 @@
  "latestExternalVersionId": "891379731",
  "name": "Sneaky Sasquatch",
  "schema": 1,
- "updatedAt": "2026-10-21T07:59:46Z",
+ "updatedAt": "2026-10-21T08:39:54Z",
  "versions": {
   "816904780": {
    "checkedAt": "2026-10-21T07:27:04Z",
@@ -27,7 +27,7 @@
    "checkedAt": "2026-10-21T07:26:38Z",
    "error": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
    "lastError": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
-   "lastErrorAt": "2026-10-21T07:59:22Z",
+   "lastErrorAt": "2026-10-21T08:39:54Z",
    "listedByApple": true,
    "status": "lost"
   },
@@ -35,7 +35,7 @@
    "checkedAt": "2026-10-21T07:26:25Z",
    "error": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
    "lastError": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
-   "lastErrorAt": "2026-10-21T07:59:09Z",
+   "lastErrorAt": "2026-10-21T08:39:42Z",
    "listedByApple": true,
    "status": "lost"
   },
@@ -51,7 +51,7 @@
    "checkedAt": "2026-10-21T07:26:00Z",
    "error": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
    "lastError": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
-   "lastErrorAt": "2026-10-21T07:58:57Z",
+   "lastErrorAt": "2026-10-21T08:39:30Z",
    "listedByApple": true,
    "status": "lost"
   },
