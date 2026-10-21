@@ -1,0 +1,100 @@
+{
+ "appId": 6744373452,
+ "arcade": true,
+ "bundleId": "com.2k.civ7aa",
+ "latestExternalVersionId": "891158810",
+ "name": "Sid Meier's Civilization® VII",
+ "schema": 1,
+ "updatedAt": "2026-10-21T08:12:59Z",
+ "versions": {
+  "873880975": {
+   "build": "1200661",
+   "checkedAt": "2026-10-21T08:12:59Z",
+   "listedByApple": true,
+   "minimumOs": "17.0",
+   "size": 1469842182,
+   "status": "ok",
+   "version": "1.2.5"
+  },
+  "881582221": {
+   "build": "1201613",
+   "checkedAt": "2026-10-21T08:12:57Z",
+   "listedByApple": true,
+   "minimumOs": "17.0",
+   "releaseDate": "2026-01-22T00:00:00",
+   "size": 1469841349,
+   "status": "ok",
+   "version": "1.2.6"
+  },
+  "881938105": {
+   "build": "1215459",
+   "checkedAt": "2026-10-21T08:12:55Z",
+   "listedByApple": true,
+   "minimumOs": "17.0",
+   "releaseDate": "2026-02-25T00:00:00",
+   "size": 1473161405,
+   "status": "ok",
+   "version": "1.2.7"
+  },
+  "883196268": {
+   "build": "1225921",
+   "checkedAt": "2026-10-21T08:12:53Z",
+   "listedByApple": true,
+   "minimumOs": "17.0",
+   "releaseDate": "2026-03-20T00:00:00",
+   "size": 1490481176,
+   "status": "ok",
+   "version": "1.2.8"
+  },
+  "884335930": {
+   "build": "1234646",
+   "checkedAt": "2026-10-21T08:12:51Z",
+   "listedByApple": true,
+   "minimumOs": "17.0",
+   "releaseDate": "2026-04-14T00:00:00",
+   "size": 1490953404,
+   "status": "ok",
+   "version": "1.2.9"
+  },
+  "884862507": {
+   "build": "1250417",
+   "checkedAt": "2026-10-21T08:12:49Z",
+   "listedByApple": true,
+   "minimumOs": "17.0",
+   "releaseDate": "2026-06-01T00:00:00",
+   "size": 1713283211,
+   "status": "ok",
+   "version": "1.2.10"
+  },
+  "886173366": {
+   "build": "1250417",
+   "checkedAt": "2026-10-21T08:12:47Z",
+   "listedByApple": true,
+   "minimumOs": "17.0",
+   "releaseDate": "2026-06-01T00:00:00",
+   "size": 1713283211,
+   "status": "ok",
+   "version": "1.2.10"
+  },
+  "886900550": {
+   "build": "1291623",
+   "checkedAt": "2026-10-21T08:12:45Z",
+   "listedByApple": true,
+   "minimumOs": "18.0",
+   "releaseDate": "2026-08-26T00:00:00",
+   "size": 2926833488,
+   "status": "ok",
+   "version": "1.4.1"
+  },
+  "891158810": {
+   "build": "1305221",
+   "checkedAt": "2026-10-21T08:12:42Z",
+   "listedByApple": true,
+   "minimumOs": "18.0",
+   "releaseDate": "2026-09-24T00:00:00",
+   "size": 2928033263,
+   "status": "ok",
+   "version": "1.4.11"
+  }
+ }
+}
