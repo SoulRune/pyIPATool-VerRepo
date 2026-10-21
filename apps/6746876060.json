@@ -1,0 +1,56 @@
+{
+ "appId": 6746876060,
+ "arcade": true,
+ "bundleId": "com.bigduckgames.flowplus",
+ "latestExternalVersionId": "883984610",
+ "name": "Flow Free+",
+ "schema": 1,
+ "updatedAt": "2026-10-21T18:45:32Z",
+ "versions": {
+  "875362619": {
+   "ageRating": "4+",
+   "artist": "Big Duck Games LLC",
+   "build": "1.0.1",
+   "checkedAt": "2026-10-21T18:45:32Z",
+   "copyright": "© 2026 Big Duck Games LLC",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDate": "2026-01-21T00:00:00",
+   "releaseDateDisplay": "2026-01-21",
+   "size": 11976635,
+   "status": "ok",
+   "version": "1.0"
+  },
+  "881512708": {
+   "ageRating": "4+",
+   "artist": "Big Duck Games LLC",
+   "build": "1.0.1",
+   "checkedAt": "2026-10-21T18:45:30Z",
+   "copyright": "© 2026 Big Duck Games LLC",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDate": "2026-01-21T00:00:00",
+   "releaseDateDisplay": "2026-01-21",
+   "size": 11976635,
+   "status": "ok",
+   "version": "1.0"
+  },
+  "883984610": {
+   "ageRating": "4+",
+   "artist": "Big Duck Games LLC",
+   "build": "1.1.1",
+   "checkedAt": "2026-10-21T18:45:25Z",
+   "copyright": "© 2026 Big Duck Games LLC",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDate": "2026-04-08T00:00:00",
+   "releaseDateDisplay": "2026-04-08",
+   "size": 11984985,
+   "status": "ok",
+   "version": "1.1"
+  }
+ }
+}
