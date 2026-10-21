@@ -1,0 +1,67 @@
+{
+ "appId": 6747169764,
+ "arcade": true,
+ "bundleId": "com.505games.terrariaarcade",
+ "latestExternalVersionId": "890632284",
+ "name": "Terraria+",
+ "schema": 1,
+ "updatedAt": "2026-10-21T14:20:22Z",
+ "versions": {
+  "875528687": {
+   "ageRating": "13+",
+   "artist": "505 Games (US), Inc.",
+   "build": "101575",
+   "checkedAt": "2026-10-21T14:20:22Z",
+   "copyright": "©2012 Re-Logic. Published by 505 Games. Developed by DR Studios. All Rights Reserved.",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDateDisplay": "Unknown (2026-10-01)",
+   "size": 315960261,
+   "status": "ok",
+   "version": "4.5.4"
+  },
+  "886580159": {
+   "ageRating": "13+",
+   "artist": "505 Games (US), Inc.",
+   "build": "101575",
+   "checkedAt": "2026-10-21T14:20:19Z",
+   "copyright": "©2012 Re-Logic. Published by 505 Games. Developed by DR Studios. All Rights Reserved.",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDateDisplay": "Unknown (2026-10-01)",
+   "size": 315960261,
+   "status": "ok",
+   "version": "4.5.4"
+  },
+  "886736418": {
+   "ageRating": "13+",
+   "artist": "505 Games (US), Inc.",
+   "build": "101575",
+   "checkedAt": "2026-10-21T14:20:15Z",
+   "copyright": "©2012 Re-Logic. Published by 505 Games. Developed by DR Studios. All Rights Reserved.",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDateDisplay": "Unknown (2026-10-01)",
+   "size": 315960261,
+   "status": "ok",
+   "version": "4.5.4"
+  },
+  "890632284": {
+   "ageRating": "13+",
+   "artist": "505 Games (US), Inc.",
+   "build": "101720",
+   "checkedAt": "2026-10-21T14:20:11Z",
+   "copyright": "©2012 Re-Logic. Published by 505 Games. Developed by DR Studios. All Rights Reserved.",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDateDisplay": "Unknown (2026-10-01)",
+   "size": 317190917,
+   "status": "ok",
+   "version": "4.5.6"
+  }
+ }
+}
