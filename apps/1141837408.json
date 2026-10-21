@@ -5,40 +5,40 @@
  "latestExternalVersionId": "852726822",
  "name": "Oceanhorn 2",
  "schema": 1,
- "updatedAt": "2026-10-21T09:50:09Z",
+ "updatedAt": "2026-10-21T10:07:03Z",
  "versions": {
   "818437804": {
-   "checkedAt": "2026-10-21T09:50:09Z",
+   "checkedAt": "2026-10-21T10:07:03Z",
    "error": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
    "listedByApple": true,
    "status": "unknown"
   },
   "832152762": {
-   "checkedAt": "2026-10-21T09:49:57Z",
+   "checkedAt": "2026-10-21T10:06:48Z",
    "error": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
    "listedByApple": true,
    "status": "unknown"
   },
   "832363858": {
-   "checkedAt": "2026-10-21T09:49:44Z",
+   "checkedAt": "2026-10-21T10:06:36Z",
    "error": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
    "listedByApple": true,
    "status": "unknown"
   },
   "832371875": {
-   "checkedAt": "2026-10-21T09:49:32Z",
+   "checkedAt": "2026-10-21T10:06:23Z",
    "error": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
    "listedByApple": true,
    "status": "unknown"
   },
   "832371876": {
-   "checkedAt": "2026-10-21T09:49:20Z",
+   "checkedAt": "2026-10-21T10:06:11Z",
    "error": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
    "listedByApple": true,
    "status": "unknown"
   },
   "832599457": {
-   "checkedAt": "2026-10-21T09:49:07Z",
+   "checkedAt": "2026-10-21T10:05:59Z",
    "error": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
    "listedByApple": true,
    "status": "unknown"
@@ -58,7 +58,7 @@
    "version": "100.0.190914"
   },
   "832779560": {
-   "checkedAt": "2026-10-21T09:48:55Z",
+   "checkedAt": "2026-10-21T10:05:47Z",
    "error": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
    "listedByApple": true,
    "status": "unknown"
