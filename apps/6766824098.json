@@ -1,0 +1,61 @@
+{
+ "appId": 6766824098,
+ "arcade": true,
+ "bundleId": "com.arcade.block.blast",
+ "latestExternalVersionId": "891382490",
+ "name": "Block Blast!+",
+ "schema": 1,
+ "updatedAt": "2026-10-21T08:01:40Z",
+ "versions": {
+  "885320699": {
+   "build": "1009",
+   "checkedAt": "2026-10-21T08:01:40Z",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDate": "2026-08-07T00:00:00",
+   "size": 246788723,
+   "status": "ok",
+   "version": "1.0.0"
+  },
+  "889376570": {
+   "build": "1009",
+   "checkedAt": "2026-10-21T08:01:38Z",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDate": "2026-08-07T00:00:00",
+   "size": 246788723,
+   "status": "ok",
+   "version": "1.0.0"
+  },
+  "889747612": {
+   "build": "1012",
+   "checkedAt": "2026-10-21T08:01:35Z",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDate": "2026-08-17T00:00:00",
+   "size": 246799585,
+   "status": "ok",
+   "version": "1.0.1"
+  },
+  "890051894": {
+   "build": "1021",
+   "checkedAt": "2026-10-21T08:01:33Z",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDate": "2026-08-21T00:00:00",
+   "size": 246799585,
+   "status": "ok",
+   "version": "1.0.2"
+  },
+  "891382490": {
+   "build": "1031",
+   "checkedAt": "2026-10-21T08:01:31Z",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDate": "2026-09-18T00:00:00",
+   "size": 246853835,
+   "status": "ok",
+   "version": "1.0.3"
+  }
+ }
+}
