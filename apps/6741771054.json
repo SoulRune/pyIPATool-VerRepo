@@ -5,15 +5,37 @@
  "latestExternalVersionId": "883353061",
  "name": "Kingdom Rush 5: Alliance TD+",
  "schema": 1,
- "updatedAt": "2026-10-21T12:24:41Z",
+ "updatedAt": "2026-10-21T14:18:19Z",
  "versions": {
   "872385717": {
+   "ageRating": "9+",
+   "artist": "Ironhide S.A.",
+   "build": "1",
+   "checkedAt": "2026-10-21T14:18:19Z",
+   "copyright": "© Ironhide Game Studio",
+   "genre": "Games",
    "listedByApple": true,
-   "status": "unknown"
+   "minimumOs": "13.0",
+   "releaseDate": "2025-05-15T00:00:00",
+   "releaseDateDisplay": "2025-05-15",
+   "size": 658253911,
+   "status": "ok",
+   "version": "5.01.22"
   },
   "876140257": {
+   "ageRating": "9+",
+   "artist": "Ironhide S.A.",
+   "build": "1",
+   "checkedAt": "2026-10-21T14:18:15Z",
+   "copyright": "© Ironhide Game Studio",
+   "genre": "Games",
    "listedByApple": true,
-   "status": "unknown"
+   "minimumOs": "13.0",
+   "releaseDate": "2025-07-07T00:00:00",
+   "releaseDateDisplay": "2025-07-07",
+   "size": 658258160,
+   "status": "ok",
+   "version": "5.01.24"
   },
   "878039645": {
    "ageRating": "9+",
