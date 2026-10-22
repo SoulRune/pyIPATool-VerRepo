@@ -5,7 +5,7 @@
  "latestExternalVersionId": "883925636",
  "name": "Goat Simulator+",
  "schema": 1,
- "updatedAt": "2026-10-21T19:11:51Z",
+ "updatedAt": "2026-10-22T04:19:37Z",
  "versions": {
   "846677509": {
    "ageRating": "13+",
@@ -511,6 +511,20 @@
    "size": 1691076086,
    "status": "ok",
    "version": "1.16"
+  },
+  "892282407": {
+   "ageRating": "13+",
+   "artist": "Coffee Stain Publishing",
+   "build": "513238",
+   "checkedAt": "2026-10-22T04:19:37Z",
+   "copyright": "© 2022, Coffee Stain Studios",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDateDisplay": "Unknown (2022-05-13)",
+   "size": 1719644399,
+   "status": "ok",
+   "version": "1.17"
   }
  }
 }
