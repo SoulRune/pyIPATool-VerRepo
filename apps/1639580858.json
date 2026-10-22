@@ -5,7 +5,7 @@
  "latestExternalVersionId": "882942071",
  "name": "Cult of the Lamb",
  "schema": 1,
- "updatedAt": "2026-10-21T19:08:31Z",
+ "updatedAt": "2026-10-22T04:16:48Z",
  "versions": {
   "851532758": {
    "ageRating": "13+",
@@ -118,6 +118,20 @@
    "size": 687541978,
    "status": "ok",
    "version": "1.4.13"
+  },
+  "887140247": {
+   "ageRating": "13+",
+   "artist": "Devolver",
+   "build": "896",
+   "checkedAt": "2026-10-22T04:16:48Z",
+   "copyright": "© Copyright 2025 Massive Monster. All Rights Reserved.",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "16.0",
+   "releaseDateDisplay": "Unknown (2025-12-04)",
+   "size": 1561032540,
+   "status": "ok",
+   "version": "1.5.25"
   }
  }
 }
