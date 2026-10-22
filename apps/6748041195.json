@@ -5,7 +5,7 @@
  "latestExternalVersionId": "891097510",
  "name": "Pocket City 2+",
  "schema": 1,
- "updatedAt": "2026-10-21T19:13:54Z",
+ "updatedAt": "2026-10-22T04:22:46Z",
  "versions": {
   "876049083": {
    "ageRating": "9+",
@@ -118,6 +118,20 @@
    "size": 216676773,
    "status": "ok",
    "version": "2.029"
+  },
+  "893105892": {
+   "ageRating": "9+",
+   "artist": "Engaged Labs Inc",
+   "build": "2091",
+   "checkedAt": "2026-10-22T04:22:46Z",
+   "copyright": "© Copyright 2026 Engaged Labs, Inc",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "releaseDateDisplay": "Unknown (2026-07-02)",
+   "size": 218902209,
+   "status": "ok",
+   "version": "2.030"
   }
  }
 }
