@@ -2,10 +2,10 @@
  "appId": 1553505132,
  "arcade": true,
  "bundleId": "com.SunblinkEntertainment.HelloKitty",
- "latestExternalVersionId": "893154728",
+ "latestExternalVersionId": "893465381",
  "name": "Hello Kitty Island Adventure",
  "schema": 1,
- "updatedAt": "2026-10-22T04:17:34Z",
+ "updatedAt": "2026-10-22T18:49:06Z",
  "versions": {
   "840470728": {
    "ageRating": "4+",
