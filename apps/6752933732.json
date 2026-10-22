@@ -5,7 +5,7 @@
  "latestExternalVersionId": "890401910",
  "name": "Dungeon Clawler+",
  "schema": 1,
- "updatedAt": "2026-10-21T19:13:38Z",
+ "updatedAt": "2026-10-22T04:22:11Z",
  "versions": {
   "878389892": {
    "ageRating": "9+",
@@ -81,6 +81,20 @@
    "size": 351750928,
    "status": "ok",
    "version": "1.1.106"
+  },
+  "893003590": {
+   "ageRating": "9+",
+   "artist": "Stray Fawn Studio",
+   "build": "6",
+   "checkedAt": "2026-10-22T04:22:11Z",
+   "copyright": "© 2024 Stray Fawn Studio",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "releaseDateDisplay": "Unknown (2026-07-02)",
+   "size": 352549948,
+   "status": "ok",
+   "version": "1.1.200"
   }
  }
 }
