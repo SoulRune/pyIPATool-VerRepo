@@ -5,6 +5,10 @@
    "spec": "6753196416"
   },
   {
+   "name": "Cozy Caravan",
+   "spec": "6740474743"
+  },
+  {
    "name": "Sneaky Sasquatch",
    "spec": "1098342019"
   },
@@ -51,10 +55,6 @@
   {
    "name": "Hello Kitty Island Adventure",
    "spec": "1553505132"
-  },
-  {
-   "name": "Cozy Caravan",
-   "spec": "6740474743"
   },
   {
    "name": "TIME LOCKER+",
@@ -293,5 +293,5 @@
    "spec": "6749188193"
   }
  ],
- "updatedAt": "2026-10-22T18:44:57Z"
+ "updatedAt": "2026-10-22T18:45:05Z"
 }
