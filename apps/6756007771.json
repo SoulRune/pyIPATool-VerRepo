@@ -5,7 +5,7 @@
  "latestExternalVersionId": "891456427",
  "name": "Creatures of the Deep+",
  "schema": 1,
- "updatedAt": "2026-10-21T19:13:49Z",
+ "updatedAt": "2026-10-22T04:22:31Z",
  "versions": {
   "880270334": {
    "ageRating": "4+",
@@ -139,6 +139,20 @@
    "size": 274471346,
    "status": "ok",
    "version": "1.08"
+  },
+  "893145226": {
+   "ageRating": "4+",
+   "artist": "Infinite Dreams Inc.",
+   "build": "10",
+   "checkedAt": "2026-10-22T04:22:31Z",
+   "copyright": "© Infinite Dreams 2022-2026",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "releaseDateDisplay": "Unknown (2026-07-02)",
+   "size": 280988673,
+   "status": "ok",
+   "version": "1.09"
   }
  }
 }
