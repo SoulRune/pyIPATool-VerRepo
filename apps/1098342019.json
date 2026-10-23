@@ -2,16 +2,16 @@
  "appId": 1098342019,
  "arcade": true,
  "bundleId": "com.rac7.SneakySasquatch",
- "latestExternalVersionId": "891379731",
+ "latestExternalVersionId": "893706318",
  "name": "Sneaky Sasquatch",
  "schema": 1,
- "updatedAt": "2026-10-22T18:47:46Z",
+ "updatedAt": "2026-10-23T05:38:07Z",
  "versions": {
   "816904780": {
    "checkedAt": "2026-10-21T07:27:04Z",
    "error": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
    "lastError": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
-   "lastErrorAt": "2026-10-22T18:47:46Z",
+   "lastErrorAt": "2026-10-23T05:38:07Z",
    "listedByApple": true,
    "status": "lost"
   },
@@ -19,7 +19,7 @@
    "checkedAt": "2026-10-21T07:26:51Z",
    "error": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
    "lastError": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
-   "lastErrorAt": "2026-10-22T18:47:44Z",
+   "lastErrorAt": "2026-10-23T05:38:05Z",
    "listedByApple": true,
    "status": "lost"
   },
@@ -27,7 +27,7 @@
    "checkedAt": "2026-10-21T07:26:38Z",
    "error": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
    "lastError": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
-   "lastErrorAt": "2026-10-22T18:47:42Z",
+   "lastErrorAt": "2026-10-23T05:38:03Z",
    "listedByApple": true,
    "status": "lost"
   },
@@ -35,7 +35,7 @@
    "checkedAt": "2026-10-21T07:26:25Z",
    "error": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
    "lastError": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
-   "lastErrorAt": "2026-10-22T18:47:40Z",
+   "lastErrorAt": "2026-10-23T05:38:01Z",
    "listedByApple": true,
    "status": "lost"
   },
@@ -57,7 +57,7 @@
    "checkedAt": "2026-10-21T07:26:00Z",
    "error": "Apple answered \"Subscription Required\" for this Apple Arcade game version. Over the route this tool uses (Apple Configurator's download endpoints) Apple often doesn't see the account's Arcade subscrip",
    "lastError": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
-   "lastErrorAt": "2026-10-22T18:47:38Z",
+   "lastErrorAt": "2026-10-23T05:37:59Z",
    "listedByApple": true,
    "status": "lost"
   },
@@ -1081,6 +1081,22 @@
    "size": 383803086,
    "status": "ok",
    "version": "2.2"
+  },
+  "893706318": {
+   "ageRating": "4+",
+   "artist": "RAC7 Games",
+   "build": "1766",
+   "checkedAt": "2026-10-23T05:37:56Z",
+   "copyright": "© 2026 Apple Inc. All rights reserved.",
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.6",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-10-23T00:00:00",
+   "releaseDateDisplay": "2026-10-23",
+   "size": 394309636,
+   "status": "ok",
+   "version": "2.2.1"
   }
  }
 }
