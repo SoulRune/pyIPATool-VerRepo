@@ -1,0 +1,47 @@
+{
+ "appId": 1599393574,
+ "bundleId": "com.azamatika.peacedeathtwo",
+ "latestExternalVersionId": "845890230",
+ "name": "Peace, Death! 2",
+ "schema": 1,
+ "store": {
+  "date": "2021-12-12T15:02:26Z",
+  "version": "1.0.11"
+ },
+ "updatedAt": "2026-10-27T12:53:34Z",
+ "versions": {
+  "845830865": {
+   "artist": "Azamat Bayzulaev",
+   "build": "1.0.8",
+   "checkedAt": "2026-10-27T12:53:34Z",
+   "copyright": "© 2021 AZAMATIKA",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "12.1",
+   "minimumOsName": "iOS",
+   "releaseDate": "2021-12-11T00:00:00",
+   "releaseDateDisplay": "2021-12-11",
+   "size": 27220356,
+   "status": "ok",
+   "version": "1.0.8"
+  },
+  "845890230": {
+   "artist": "Azamat Bayzulaev",
+   "build": "1.0.11",
+   "checkedAt": "2026-10-27T12:53:33Z",
+   "copyright": "© 2021 AZAMATIKA",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "12.1",
+   "minimumOsName": "iOS",
+   "releaseDate": "2021-12-12T00:00:00",
+   "releaseDateDisplay": "2021-12-12",
+   "size": 27222005,
+   "status": "ok",
+   "storeLabel": "1.0.11",
+   "version": "1.0.11"
+  }
+ }
+}
