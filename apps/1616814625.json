@@ -9,7 +9,7 @@
   "date": "2026-10-14T21:45:55Z",
   "version": "1.29.0"
  },
- "updatedAt": "2026-10-27T11:51:32Z",
+ "updatedAt": "2026-10-27T15:49:39Z",
  "versions": {
   "848018245": {
    "ageRating": "9+",
@@ -697,6 +697,7 @@
    "releaseDateDisplay": "Unknown (2023-02-03)",
    "size": 970317222,
    "status": "ok",
+   "storeLabel": "1.29.0",
    "version": "1.29.0"
   }
  }
