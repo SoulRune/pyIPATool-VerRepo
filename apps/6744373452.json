@@ -9,7 +9,7 @@
   "date": "2026-09-24T16:08:21Z",
   "version": "1.4.11"
  },
- "updatedAt": "2026-10-27T11:51:53Z",
+ "updatedAt": "2026-10-27T15:49:46Z",
  "versions": {
   "873880975": {
    "ageRating": "13+",
@@ -153,6 +153,7 @@
    "releaseDateDisplay": "Unknown (2026-02-05)",
    "size": 2928033263,
    "status": "ok",
+   "storeLabel": "1.4.11",
    "version": "1.4.11"
   }
  }
