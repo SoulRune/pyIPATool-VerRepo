@@ -1,0 +1,82 @@
+{
+ "appId": 6754882272,
+ "arcade": true,
+ "bundleId": "com.zm.watersort.arcade",
+ "latestExternalVersionId": "892202754",
+ "name": "Water Sort Puzzle: Get Color+",
+ "schema": 1,
+ "store": {
+  "date": "2026-10-23T19:43:30Z",
+  "version": "5.29.1"
+ },
+ "updatedAt": "2026-10-27T12:22:41Z",
+ "versions": {
+  "879489950": {
+   "ageRating": "9+",
+   "artist": "Tripledot Studios",
+   "build": "4032",
+   "checkedAt": "2026-10-27T12:22:41Z",
+   "copyright": "© 2026, Tripledot Studios Limited",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDateDisplay": "Unknown (2026-08-06)",
+   "size": 225355749,
+   "status": "ok",
+   "version": "5.26.0"
+  },
+  "890107771": {
+   "ageRating": "9+",
+   "artist": "Tripledot Studios",
+   "build": "4493",
+   "checkedAt": "2026-10-27T12:22:40Z",
+   "copyright": "© 2026, Tripledot Studios Limited",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDateDisplay": "Unknown (2026-08-06)",
+   "size": 228307796,
+   "status": "ok",
+   "version": "5.26.1"
+  },
+  "891755427": {
+   "ageRating": "9+",
+   "artist": "Tripledot Studios",
+   "build": "4584",
+   "checkedAt": "2026-10-27T12:22:38Z",
+   "copyright": "© 2026, Tripledot Studios Limited",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-09-23T00:00:00",
+   "releaseDateDisplay": "2026-09-23",
+   "size": 228417129,
+   "status": "ok",
+   "version": "5.29.0"
+  },
+  "892202754": {
+   "ageRating": "9+",
+   "artist": "Tripledot Studios",
+   "build": "4642",
+   "checkedAt": "2026-10-27T12:22:37Z",
+   "copyright": "© 2026, Tripledot Studios Limited",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-10-23T00:00:00",
+   "releaseDateDisplay": "2026-10-23",
+   "size": 230185289,
+   "status": "ok",
+   "storeLabel": "5.29.1",
+   "version": "5.29.1"
+  }
+ }
+}
