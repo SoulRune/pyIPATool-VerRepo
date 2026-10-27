@@ -1,0 +1,81 @@
+{
+ "appId": 6747169764,
+ "arcade": true,
+ "bundleId": "com.505games.terrariaarcade",
+ "latestExternalVersionId": "890632284",
+ "name": "Terraria+",
+ "schema": 1,
+ "store": {
+  "date": "2026-10-01T07:00:00Z",
+  "version": "1.4.5.8.1"
+ },
+ "updatedAt": "2026-10-27T12:08:29Z",
+ "versions": {
+  "875528687": {
+   "ageRating": "13+",
+   "artist": "505 Games (US), Inc.",
+   "build": "101575",
+   "checkedAt": "2026-10-27T12:08:29Z",
+   "copyright": "©2012 Re-Logic. Published by 505 Games. Developed by DR Studios. All Rights Reserved.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDateDisplay": "Unknown (2026-10-01)",
+   "size": 315960261,
+   "status": "ok",
+   "version": "4.5.4"
+  },
+  "886580159": {
+   "ageRating": "13+",
+   "artist": "505 Games (US), Inc.",
+   "build": "101575",
+   "checkedAt": "2026-10-27T12:08:28Z",
+   "copyright": "©2012 Re-Logic. Published by 505 Games. Developed by DR Studios. All Rights Reserved.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDateDisplay": "Unknown (2026-10-01)",
+   "size": 315960261,
+   "status": "ok",
+   "version": "4.5.4"
+  },
+  "886736418": {
+   "ageRating": "13+",
+   "artist": "505 Games (US), Inc.",
+   "build": "101575",
+   "checkedAt": "2026-10-27T12:08:27Z",
+   "copyright": "©2012 Re-Logic. Published by 505 Games. Developed by DR Studios. All Rights Reserved.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDateDisplay": "Unknown (2026-10-01)",
+   "size": 315960261,
+   "status": "ok",
+   "version": "4.5.4"
+  },
+  "890632284": {
+   "ageRating": "13+",
+   "artist": "505 Games (US), Inc.",
+   "build": "101720",
+   "checkedAt": "2026-10-27T12:08:26Z",
+   "copyright": "©2012 Re-Logic. Published by 505 Games. Developed by DR Studios. All Rights Reserved.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-09-14T00:00:00",
+   "releaseDateDisplay": "2026-09-14",
+   "size": 317190917,
+   "status": "ok",
+   "storeLabel": "1.4.5.8.1",
+   "version": "4.5.6"
+  }
+ }
+}
