@@ -1,0 +1,65 @@
+{
+ "appId": 6739293760,
+ "arcade": true,
+ "bundleId": "com.snapbreak.lipaa",
+ "latestExternalVersionId": "875724623",
+ "name": "Lost in Play+",
+ "schema": 1,
+ "store": {
+  "date": "2025-06-24T18:16:53Z",
+  "version": "1.0.2"
+ },
+ "updatedAt": "2026-10-27T12:16:14Z",
+ "versions": {
+  "871065323": {
+   "ageRating": "9+",
+   "artist": "Snapbreak Games",
+   "build": "13",
+   "checkedAt": "2026-10-27T12:16:14Z",
+   "copyright": "© Happy Juice Interactive LTD 2025",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDateDisplay": "Unknown (2025-06-05)",
+   "size": 680570562,
+   "status": "ok",
+   "version": "1.0.2043"
+  },
+  "874517946": {
+   "ageRating": "9+",
+   "artist": "Snapbreak Games",
+   "build": "3",
+   "checkedAt": "2026-10-27T12:16:13Z",
+   "copyright": "© Happy Juice Interactive LTD 2025",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDateDisplay": "Unknown (2025-06-05)",
+   "size": 680595401,
+   "status": "ok",
+   "version": "1.0.2052"
+  },
+  "875724623": {
+   "ageRating": "9+",
+   "artist": "Snapbreak Games",
+   "build": "1",
+   "checkedAt": "2026-10-27T12:16:11Z",
+   "copyright": "© Happy Juice Interactive LTD 2025",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2025-06-24T00:00:00",
+   "releaseDateDisplay": "2025-06-24",
+   "size": 680574649,
+   "status": "ok",
+   "storeLabel": "1.0.2",
+   "version": "1.0.2053"
+  }
+ }
+}
