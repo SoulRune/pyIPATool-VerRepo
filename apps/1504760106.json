@@ -1,14 +1,14 @@
 {
  "appId": 1504760106,
  "bundleId": "com.gamefirst.savetheearth",
- "latestExternalVersionId": "886351118",
+ "latestExternalVersionId": "894037241",
  "name": "Eco inc. Save the Earth",
  "schema": 1,
  "store": {
-  "date": "2026-10-24T06:44:19Z",
-  "version": "2.0.40"
+  "date": "2026-10-28T14:11:43Z",
+  "version": "2.1.6"
  },
- "updatedAt": "2026-10-27T16:00:27Z",
+ "updatedAt": "2026-10-28T21:18:58Z",
  "versions": {
   "835285224": {
    "artist": "GameFirst LLC",
@@ -761,6 +761,39 @@
    "status": "ok",
    "storeLabel": "2.0.40",
    "version": "2.0.40"
+  },
+  "893844337": {
+   "artist": "GameFirst LLC",
+   "build": "123",
+   "checkedAt": "2026-10-28T21:18:58Z",
+   "copyright": "© GameFirst LLC.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-10-27T00:00:00",
+   "releaseDateDisplay": "2026-10-27",
+   "size": 241455424,
+   "status": "ok",
+   "version": "2.1.4"
+  },
+  "894037241": {
+   "artist": "GameFirst LLC",
+   "build": "124",
+   "checkedAt": "2026-10-28T21:18:53Z",
+   "copyright": "© GameFirst LLC.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-10-28T00:00:00",
+   "releaseDateDisplay": "2026-10-28",
+   "size": 242114407,
+   "status": "ok",
+   "storeLabel": "2.1.6",
+   "version": "2.1.6"
   }
  }
 }
