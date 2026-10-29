@@ -6,10 +6,10 @@
  "name": "PowerWash Simulator",
  "schema": 1,
  "store": {
-  "date": "2026-09-09T21:39:22Z",
-  "version": "1.4.0"
+  "date": "2026-10-28T22:23:27Z",
+  "version": "1.5.0"
  },
- "updatedAt": "2026-10-28T21:09:28Z",
+ "updatedAt": "2026-10-29T12:14:12Z",
  "versions": {
   "863444932": {
    "ageRating": "4+",
@@ -147,6 +147,22 @@
    "status": "ok",
    "storeLabel": "1.4.0",
    "version": "1.4.0"
+  },
+  "891926635": {
+   "ageRating": "4+",
+   "artist": "FuturLab",
+   "build": "75",
+   "checkedAt": "2026-10-29T12:14:12Z",
+   "copyright": "© 2026 FuturLab Limited. All rights reserved.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDateDisplay": "Unknown (2025-12-04)",
+   "size": 1726238468,
+   "status": "ok",
+   "version": "1.5.0"
   }
  }
 }
