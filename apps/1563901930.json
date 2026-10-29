@@ -2,14 +2,14 @@
  "appId": 1563901930,
  "arcade": true,
  "bundleId": "jp.co.ofcr.cmA00",
- "latestExternalVersionId": "892325761",
+ "latestExternalVersionId": "893208938",
  "name": "Cooking Mama: Cuisine!",
  "schema": 1,
  "store": {
   "date": "2026-10-28T22:24:33Z",
   "version": "1.44.1"
  },
- "updatedAt": "2026-10-29T12:16:51Z",
+ "updatedAt": "2026-10-29T13:59:12Z",
  "versions": {
   "841642393": {
    "ageRating": "4+",
@@ -1059,6 +1059,7 @@
    "releaseDateDisplay": "Unknown (2022-06-17)",
    "size": 274600766,
    "status": "ok",
+   "storeLabel": "1.44.1",
    "version": "1.44.1"
   }
  }
