@@ -2,14 +2,14 @@
  "appId": 6462195757,
  "arcade": true,
  "bundleId": "com.rovio.ab-bounce",
- "latestExternalVersionId": "891414571",
+ "latestExternalVersionId": "893454293",
  "name": "Angry Birds Bounce",
  "schema": 1,
  "store": {
   "date": "2026-10-26T15:38:58Z",
   "version": "1.10.1"
  },
- "updatedAt": "2026-10-29T12:13:10Z",
+ "updatedAt": "2026-10-29T13:50:01Z",
  "versions": {
   "859205560": {
    "ageRating": "4+",
