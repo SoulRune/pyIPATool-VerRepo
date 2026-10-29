@@ -6,10 +6,10 @@
  "name": "Bloons TD 6+",
  "schema": 1,
  "store": {
-  "date": "2026-10-16T21:17:18Z",
-  "version": "57.2"
+  "date": "2026-10-29T00:08:24Z",
+  "version": "57.4"
  },
- "updatedAt": "2026-10-28T21:07:11Z",
+ "updatedAt": "2026-10-29T12:13:26Z",
  "versions": {
   "843953328": {
    "ageRating": "9+",
@@ -1702,6 +1702,22 @@
    "status": "ok",
    "storeLabel": "57.2",
    "version": "57.2"
+  },
+  "893704870": {
+   "ageRating": "9+",
+   "artist": "Ninja Kiwi",
+   "build": "12224",
+   "checkedAt": "2026-10-29T12:13:26Z",
+   "copyright": "© 2022 Ninja Kiwi Limited",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDateDisplay": "Unknown (2022-02-11)",
+   "size": 1022144792,
+   "status": "ok",
+   "version": "57.4"
   }
  }
 }
