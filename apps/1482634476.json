@@ -2,14 +2,14 @@
  "appId": 1482634476,
  "arcade": true,
  "bundleId": "es.brokenrul.gibbon",
- "latestExternalVersionId": "892615257",
+ "latestExternalVersionId": "882533023",
  "name": "Gibbon: Beyond the Trees",
  "schema": 1,
  "store": {
   "date": "2026-10-26T15:33:48Z",
   "version": "1.10.3"
  },
- "updatedAt": "2026-10-28T21:10:23Z",
+ "updatedAt": "2026-10-29T12:14:31Z",
  "versions": {
   "833063725": {
    "ageRating": "9+",
