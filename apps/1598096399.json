@@ -6,10 +6,10 @@
  "name": "Jetpack Joyride 2",
  "schema": 1,
  "store": {
-  "date": "2026-10-14T21:44:18Z",
-  "version": "5.4.10"
+  "date": "2026-10-29T01:00:04Z",
+  "version": "5.5.10"
  },
- "updatedAt": "2026-10-28T21:14:21Z",
+ "updatedAt": "2026-10-29T12:15:50Z",
  "versions": {
   "845675659": {
    "ageRating": "9+",
@@ -1301,6 +1301,22 @@
    "status": "ok",
    "storeLabel": "5.4.10",
    "version": "5.4.10"
+  },
+  "893508293": {
+   "ageRating": "9+",
+   "artist": "Halfbrick Studios",
+   "build": "5.5.10.6",
+   "checkedAt": "2026-10-29T12:15:50Z",
+   "copyright": "© 2026 Halfbrick Studios",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDateDisplay": "Unknown (2022-08-19)",
+   "size": 552423981,
+   "status": "ok",
+   "version": "5.5.10"
   }
  }
 }
