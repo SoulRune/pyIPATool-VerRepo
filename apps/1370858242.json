@@ -6,10 +6,10 @@
  "name": "Zookeeper World",
  "schema": 1,
  "store": {
-  "date": "2026-10-07T21:19:09Z",
-  "version": "11.1.0"
+  "date": "2026-10-28T22:27:06Z",
+  "version": "11.2.0"
  },
- "updatedAt": "2026-10-28T21:14:17Z",
+ "updatedAt": "2026-10-29T12:15:38Z",
  "versions": {
   "826646704": {
    "ageRating": "13+",
@@ -1495,6 +1495,22 @@
    "status": "ok",
    "storeLabel": "11.1.0",
    "version": "11.1.0"
+  },
+  "892801852": {
+   "ageRating": "13+",
+   "artist": "KITERETSU INC.",
+   "build": "574",
+   "checkedAt": "2026-10-29T12:15:38Z",
+   "copyright": "© KITERETSU Inc.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDateDisplay": "Unknown (2021-09-10)",
+   "size": 506282303,
+   "status": "ok",
+   "version": "11.2.0"
   }
  }
 }
