@@ -1,0 +1,66 @@
+{
+ "appId": 6759712869,
+ "arcade": true,
+ "bundleId": "com.kwalee.drawitplus",
+ "latestExternalVersionId": "893736544",
+ "name": "Draw it+",
+ "schema": 1,
+ "store": {
+  "date": "2026-10-28T22:25:38Z",
+  "version": "1.0.3"
+ },
+ "updatedAt": "2026-10-29T12:23:16Z",
+ "versions": {
+  "882817693": {
+   "ageRating": "4+",
+   "artist": "Kwalee Ltd",
+   "build": "1.0.1.2784",
+   "checkedAt": "2026-10-29T12:23:16Z",
+   "copyright": "© (C) Copyright 2019-2026, Kwalee LTD",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDateDisplay": "Unknown (2026-07-02)",
+   "size": 148698891,
+   "status": "ok",
+   "version": "1.0.1"
+  },
+  "887942618": {
+   "ageRating": "4+",
+   "artist": "Kwalee Ltd",
+   "build": "1.0.2.2818",
+   "checkedAt": "2026-10-29T12:23:14Z",
+   "copyright": "© (C) Copyright 2019-2026, Kwalee LTD",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-07-09T00:00:00",
+   "releaseDateDisplay": "2026-07-09",
+   "size": 183942237,
+   "status": "ok",
+   "version": "1.0.2"
+  },
+  "893736544": {
+   "ageRating": "4+",
+   "artist": "Kwalee Ltd",
+   "build": "1.0.3.3113",
+   "checkedAt": "2026-10-29T12:23:12Z",
+   "copyright": "© (C) Copyright 2019-2026, Kwalee LTD",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.6",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-10-28T00:00:00",
+   "releaseDateDisplay": "2026-10-28",
+   "size": 187141425,
+   "status": "ok",
+   "storeLabel": "1.0.3",
+   "version": "1.0.3"
+  }
+ }
+}
