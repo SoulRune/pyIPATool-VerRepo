@@ -1,0 +1,279 @@
+{
+ "appId": 6636548835,
+ "arcade": true,
+ "bundleId": "com.monstronauts.potionpunch2plus",
+ "latestExternalVersionId": "893570763",
+ "name": "Potion Punch 2+",
+ "schema": 1,
+ "store": {
+  "date": "2026-10-28T22:26:26Z",
+  "version": "1.52.00"
+ },
+ "updatedAt": "2026-10-29T12:25:44Z",
+ "versions": {
+  "868238584": {
+   "listedByApple": true,
+   "status": "unknown"
+  },
+  "877459117": {
+   "listedByApple": true,
+   "status": "unknown"
+  },
+  "877680878": {
+   "listedByApple": true,
+   "status": "unknown"
+  },
+  "878194488": {
+   "listedByApple": true,
+   "status": "unknown"
+  },
+  "880489542": {
+   "listedByApple": true,
+   "status": "unknown"
+  },
+  "880811169": {
+   "listedByApple": true,
+   "status": "unknown"
+  },
+  "881342746": {
+   "listedByApple": true,
+   "status": "unknown"
+  },
+  "881405818": {
+   "listedByApple": true,
+   "status": "unknown"
+  },
+  "881480545": {
+   "listedByApple": true,
+   "status": "unknown"
+  },
+  "881728458": {
+   "listedByApple": true,
+   "status": "unknown"
+  },
+  "881878706": {
+   "listedByApple": true,
+   "status": "unknown"
+  },
+  "881988862": {
+   "listedByApple": true,
+   "status": "unknown"
+  },
+  "882257655": {
+   "listedByApple": true,
+   "status": "unknown"
+  },
+  "882728806": {
+   "listedByApple": true,
+   "status": "unknown"
+  },
+  "882820215": {
+   "listedByApple": true,
+   "status": "unknown"
+  },
+  "884845695": {
+   "listedByApple": true,
+   "status": "unknown"
+  },
+  "885276808": {
+   "listedByApple": true,
+   "status": "unknown"
+  },
+  "885312121": {
+   "listedByApple": true,
+   "status": "unknown"
+  },
+  "885859330": {
+   "listedByApple": true,
+   "status": "unknown"
+  },
+  "886363990": {
+   "ageRating": "4+",
+   "artist": "Monstronauts",
+   "build": "2290",
+   "checkedAt": "2026-10-29T12:25:44Z",
+   "copyright": "© 2026 Monstronauts Inc.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-06-08T00:00:00",
+   "releaseDateDisplay": "2026-06-08",
+   "size": 601590758,
+   "status": "ok",
+   "version": "1.20.01"
+  },
+  "887086709": {
+   "ageRating": "4+",
+   "artist": "Monstronauts",
+   "build": "2428",
+   "checkedAt": "2026-10-29T12:25:40Z",
+   "copyright": "© 2026 Monstronauts Inc.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-06-22T00:00:00",
+   "releaseDateDisplay": "2026-06-22",
+   "size": 614211902,
+   "status": "ok",
+   "version": "1.30.00"
+  },
+  "888455363": {
+   "ageRating": "4+",
+   "artist": "Monstronauts",
+   "build": "2582",
+   "checkedAt": "2026-10-29T12:25:35Z",
+   "copyright": "© 2026 Monstronauts Inc.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-07-29T00:00:00",
+   "releaseDateDisplay": "2026-07-29",
+   "size": 642711932,
+   "status": "ok",
+   "version": "1.40.00"
+  },
+  "889042051": {
+   "ageRating": "4+",
+   "artist": "Monstronauts",
+   "build": "2594",
+   "checkedAt": "2026-10-29T12:25:30Z",
+   "copyright": "© 2026 Monstronauts Inc.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-07-30T00:00:00",
+   "releaseDateDisplay": "2026-07-30",
+   "size": 643109548,
+   "status": "ok",
+   "version": "1.40.01"
+  },
+  "889614660": {
+   "ageRating": "4+",
+   "artist": "Monstronauts",
+   "build": "2621",
+   "checkedAt": "2026-10-29T12:25:25Z",
+   "copyright": "© 2026 Monstronauts Inc.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-08-26T00:00:00",
+   "releaseDateDisplay": "2026-08-26",
+   "size": 667057653,
+   "status": "ok",
+   "version": "1.50.00"
+  },
+  "890368862": {
+   "ageRating": "4+",
+   "artist": "Monstronauts",
+   "build": "2626",
+   "checkedAt": "2026-10-29T12:25:21Z",
+   "copyright": "© 2026 Monstronauts Inc.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-08-28T00:00:00",
+   "releaseDateDisplay": "2026-08-28",
+   "size": 659039006,
+   "status": "ok",
+   "version": "1.50.01"
+  },
+  "890490112": {
+   "ageRating": "4+",
+   "artist": "Monstronauts",
+   "build": "2627",
+   "checkedAt": "2026-10-29T12:25:16Z",
+   "copyright": "© 2026 Monstronauts Inc.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-08-31T00:00:00",
+   "releaseDateDisplay": "2026-08-31",
+   "size": 659041243,
+   "status": "ok",
+   "version": "1.50.02"
+  },
+  "891522417": {
+   "ageRating": "4+",
+   "artist": "Monstronauts",
+   "build": "2638",
+   "checkedAt": "2026-10-29T12:25:11Z",
+   "copyright": "© 2026 Monstronauts Inc.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-09-30T00:00:00",
+   "releaseDateDisplay": "2026-09-30",
+   "size": 683487282,
+   "status": "ok",
+   "version": "1.51.00"
+  },
+  "892309572": {
+   "ageRating": "4+",
+   "artist": "Monstronauts",
+   "build": "2645",
+   "checkedAt": "2026-10-29T12:25:07Z",
+   "copyright": "© 2026 Monstronauts Inc.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-10-02T00:00:00",
+   "releaseDateDisplay": "2026-10-02",
+   "size": 682125140,
+   "status": "ok",
+   "version": "1.51.01"
+  },
+  "892548646": {
+   "ageRating": "4+",
+   "artist": "Monstronauts",
+   "build": "2648",
+   "checkedAt": "2026-10-29T12:25:02Z",
+   "copyright": "© 2026 Monstronauts Inc.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-10-05T00:00:00",
+   "releaseDateDisplay": "2026-10-05",
+   "size": 697202750,
+   "status": "ok",
+   "version": "1.51.02"
+  },
+  "893570763": {
+   "ageRating": "4+",
+   "artist": "Monstronauts",
+   "build": "2665",
+   "checkedAt": "2026-10-29T12:24:58Z",
+   "copyright": "© 2026 Monstronauts Inc.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-10-28T00:00:00",
+   "releaseDateDisplay": "2026-10-28",
+   "size": 723389627,
+   "status": "ok",
+   "storeLabel": "1.52.00",
+   "version": "1.52.00"
+  }
+ }
+}
