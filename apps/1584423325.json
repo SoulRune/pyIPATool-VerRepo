@@ -2,14 +2,14 @@
  "appId": 1584423325,
  "arcade": true,
  "bundleId": "com.ninjakiwi.bloonstd6plus",
- "latestExternalVersionId": "893114740",
+ "latestExternalVersionId": "893704870",
  "name": "Bloons TD 6+",
  "schema": 1,
  "store": {
   "date": "2026-10-29T00:08:24Z",
   "version": "57.4"
  },
- "updatedAt": "2026-10-29T12:13:26Z",
+ "updatedAt": "2026-10-29T13:50:21Z",
  "versions": {
   "843953328": {
    "ageRating": "9+",
@@ -1717,6 +1717,7 @@
    "releaseDateDisplay": "Unknown (2022-02-11)",
    "size": 1022144792,
    "status": "ok",
+   "storeLabel": "57.4",
    "version": "57.4"
   }
  }
