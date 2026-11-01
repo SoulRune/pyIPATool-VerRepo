@@ -2,14 +2,14 @@
  "appId": 6477445344,
  "arcade": true,
  "bundleId": "com.futurlab.pwsmobile",
- "latestExternalVersionId": "889657356",
+ "latestExternalVersionId": "891926635",
  "name": "PowerWash Simulator",
  "schema": 1,
  "store": {
   "date": "2026-10-28T22:23:27Z",
   "version": "1.5.0"
  },
- "updatedAt": "2026-10-29T13:52:23Z",
+ "updatedAt": "2026-11-01T22:28:37Z",
  "versions": {
   "863444932": {
    "ageRating": "4+",
@@ -162,6 +162,7 @@
    "releaseDateDisplay": "Unknown (2025-12-04)",
    "size": 1726238468,
    "status": "ok",
+   "storeLabel": "1.5.0",
    "version": "1.5.0"
   }
  }
