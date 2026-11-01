@@ -2,14 +2,14 @@
  "appId": 1370858242,
  "arcade": true,
  "bundleId": "jp.kiteretsu.zookeeper.world",
- "latestExternalVersionId": "891559090",
+ "latestExternalVersionId": "892801852",
  "name": "Zookeeper World",
  "schema": 1,
  "store": {
   "date": "2026-10-28T22:27:06Z",
   "version": "11.2.0"
  },
- "updatedAt": "2026-10-29T13:56:14Z",
+ "updatedAt": "2026-11-01T22:32:47Z",
  "versions": {
   "826646704": {
    "ageRating": "13+",
@@ -1510,6 +1510,7 @@
    "releaseDateDisplay": "Unknown (2021-09-10)",
    "size": 506282303,
    "status": "ok",
+   "storeLabel": "11.2.0",
    "version": "11.2.0"
   }
  }
