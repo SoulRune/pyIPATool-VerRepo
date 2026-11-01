@@ -2,14 +2,14 @@
  "appId": 6749604300,
  "arcade": true,
  "bundleId": "jp.arcsystemworks.kusa",
- "latestExternalVersionId": "891380286",
+ "latestExternalVersionId": "893662959",
  "name": "River City Survivors",
  "schema": 1,
  "store": {
   "date": "2026-10-28T22:23:55Z",
   "version": "1.0.3"
  },
- "updatedAt": "2026-10-29T13:51:40Z",
+ "updatedAt": "2026-11-01T22:28:19Z",
  "versions": {
   "877013243": {
    "ageRating": "9+",
@@ -77,6 +77,7 @@
    "releaseDateDisplay": "Unknown (2026-10-01)",
    "size": 494681829,
    "status": "ok",
+   "storeLabel": "1.0.3",
    "version": "1.0.3"
   }
  }
