@@ -2,13 +2,14 @@
  "appId": 1182476302,
  "arcade": true,
  "bundleId": "com.snowman.skatecity",
+ "latestExternalVersionId": "883359927",
  "name": "Skate City",
  "schema": 1,
  "store": {
   "date": "2026-10-29T00:30:05Z",
   "version": "6.5"
  },
- "updatedAt": "2026-10-29T14:04:09Z",
+ "updatedAt": "2026-11-01T22:36:23Z",
  "versions": {
   "820000839": {
    "ageRating": "9+",
