@@ -2,14 +2,14 @@
  "appId": 6759712869,
  "arcade": true,
  "bundleId": "com.kwalee.drawitplus",
- "latestExternalVersionId": "893736544",
+ "latestExternalVersionId": "894139524",
  "name": "Draw it+",
  "schema": 1,
  "store": {
-  "date": "2026-10-28T22:25:38Z",
-  "version": "1.0.3"
+  "date": "2026-10-31T00:06:21Z",
+  "version": "1.0.4"
  },
- "updatedAt": "2026-10-29T14:04:54Z",
+ "updatedAt": "2026-11-01T22:36:39Z",
  "versions": {
   "882817693": {
    "ageRating": "4+",
@@ -61,6 +61,24 @@
    "status": "ok",
    "storeLabel": "1.0.3",
    "version": "1.0.3"
+  },
+  "894139524": {
+   "ageRating": "4+",
+   "artist": "Kwalee Ltd",
+   "build": "1.0.4.3117",
+   "checkedAt": "2026-11-01T22:36:39Z",
+   "copyright": "© (C) Copyright 2019-2026, Kwalee LTD",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.6",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-10-31T00:00:00",
+   "releaseDateDisplay": "2026-10-31",
+   "size": 187146732,
+   "status": "ok",
+   "storeLabel": "1.0.4",
+   "version": "1.0.4"
   }
  }
 }
