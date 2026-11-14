@@ -2,14 +2,14 @@
  "appId": 6478231600,
  "arcade": true,
  "bundleId": "com.chinykian.aslightchanceofsawbladesplus",
- "latestExternalVersionId": "893418795",
+ "latestExternalVersionId": "894088495",
  "name": "A Slight Chance of Sawblades+",
  "schema": 1,
  "store": {
-  "date": "2026-10-22T21:50:07Z",
-  "version": "1.46.1"
+  "date": "2026-11-02T19:25:13Z",
+  "version": "1.47.0"
  },
- "updatedAt": "2026-11-01T22:36:15Z",
+ "updatedAt": "2026-11-14T19:53:43Z",
  "versions": {
   "863921921": {
    "ageRating": "9+",
@@ -597,6 +597,24 @@
    "status": "ok",
    "storeLabel": "1.46.1",
    "version": "1.46.1"
+  },
+  "894088495": {
+   "ageRating": "9+",
+   "artist": "Yong Kian Chin",
+   "build": "0",
+   "checkedAt": "2026-11-14T19:53:43Z",
+   "copyright": "© 2022 Chinykian Games",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-02T00:00:00",
+   "releaseDateDisplay": "2026-11-02",
+   "size": 62706940,
+   "status": "ok",
+   "storeLabel": "1.47.0",
+   "version": "1.47.0"
   }
  }
 }
