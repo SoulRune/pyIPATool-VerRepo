@@ -2,14 +2,14 @@
  "appId": 6745787291,
  "arcade": true,
  "bundleId": "com.hyperbeard.pocketloveplus",
- "latestExternalVersionId": "892428694",
+ "latestExternalVersionId": "893940874",
  "name": "Pocket Love!+",
  "schema": 1,
  "store": {
-  "date": "2026-10-19T20:09:29Z",
-  "version": "1.6"
+  "date": "2026-11-03T20:21:28Z",
+  "version": "1.7"
  },
- "updatedAt": "2026-11-01T22:35:15Z",
+ "updatedAt": "2026-11-14T18:44:28Z",
  "versions": {
   "874709951": {
    "ageRating": "9+",
@@ -215,6 +215,24 @@
    "status": "ok",
    "storeLabel": "1.6",
    "version": "1.6"
+  },
+  "893940874": {
+   "ageRating": "9+",
+   "artist": "HyperBeard Inc.",
+   "build": "1",
+   "checkedAt": "2026-11-14T18:44:28Z",
+   "copyright": "© 2026 HyperBeard, Inc.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-03T00:00:00",
+   "releaseDateDisplay": "2026-11-03",
+   "size": 374354183,
+   "status": "ok",
+   "storeLabel": "1.7",
+   "version": "1.7"
   }
  }
 }
