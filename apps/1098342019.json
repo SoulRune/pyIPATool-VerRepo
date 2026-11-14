@@ -9,28 +9,28 @@
   "date": "2026-11-05T23:52:15Z",
   "version": "2.2.2"
  },
- "updatedAt": "2026-11-14T18:35:17Z",
+ "updatedAt": "2026-11-14T19:29:52Z",
  "versions": {
   "816904780": {
-   "checkedAt": "2026-11-14T18:35:17Z",
+   "checkedAt": "2026-11-14T19:29:52Z",
    "error": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
    "listedByApple": true,
    "status": "unknown"
   },
   "832252653": {
-   "checkedAt": "2026-11-14T18:35:15Z",
+   "checkedAt": "2026-11-14T19:29:48Z",
    "error": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
    "listedByApple": true,
    "status": "unknown"
   },
   "832579834": {
-   "checkedAt": "2026-11-14T18:35:14Z",
+   "checkedAt": "2026-11-14T19:29:40Z",
    "error": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
    "listedByApple": true,
    "status": "unknown"
   },
   "832667115": {
-   "checkedAt": "2026-11-14T18:35:12Z",
+   "checkedAt": "2026-11-14T19:29:35Z",
    "error": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
    "listedByApple": true,
    "status": "unknown"
@@ -52,7 +52,7 @@
    "version": "1.0.6"
   },
   "832779426": {
-   "checkedAt": "2026-11-14T18:35:09Z",
+   "checkedAt": "2026-11-14T19:29:29Z",
    "error": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
    "listedByApple": true,
    "status": "unknown"
