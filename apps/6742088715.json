@@ -2,14 +2,14 @@
  "appId": 6742088715,
  "arcade": true,
  "bundleId": "com.hipsterwhale.piffleplus",
- "latestExternalVersionId": "888317052",
+ "latestExternalVersionId": "893961140",
  "name": "Piffle+",
  "schema": 1,
  "store": {
-  "date": "2026-07-20T23:43:10Z",
-  "version": "1.6"
+  "date": "2026-11-05T15:59:36Z",
+  "version": "1.7"
  },
- "updatedAt": "2026-11-01T22:31:39Z",
+ "updatedAt": "2026-11-14T19:41:59Z",
  "versions": {
   "872549457": {
    "ageRating": "4+",
@@ -124,6 +124,24 @@
    "status": "ok",
    "storeLabel": "1.6",
    "version": "4.605.22095"
+  },
+  "893961140": {
+   "ageRating": "4+",
+   "artist": "HIPSTER WHALE",
+   "build": "4.605.22098",
+   "checkedAt": "2026-11-14T19:41:59Z",
+   "copyright": "© 2025 Hipster Whale Pty Ltd",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-05T00:00:00",
+   "releaseDateDisplay": "2026-11-05",
+   "size": 190817647,
+   "status": "ok",
+   "storeLabel": "1.7",
+   "version": "4.605.22098"
   }
  }
 }
