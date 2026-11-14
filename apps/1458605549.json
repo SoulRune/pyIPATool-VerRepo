@@ -2,14 +2,14 @@
  "appId": 1458605549,
  "arcade": true,
  "bundleId": "com.studiodrydock.mayflower",
- "latestExternalVersionId": "892131505",
+ "latestExternalVersionId": "894435867",
  "name": "Wylde Flowers",
  "schema": 1,
  "store": {
-  "date": "2026-10-21T17:09:51Z",
-  "version": "1.7.4"
+  "date": "2026-11-06T17:17:08Z",
+  "version": "1.7.5"
  },
- "updatedAt": "2026-11-01T22:33:35Z",
+ "updatedAt": "2026-11-14T19:45:41Z",
  "versions": {
   "830853390": {
    "ageRating": "13+",
@@ -351,6 +351,24 @@
    "status": "ok",
    "storeLabel": "1.7.4",
    "version": "1.7.4"
+  },
+  "894435867": {
+   "ageRating": "13+",
+   "artist": "Studio Drydock Pty Ltd",
+   "build": "20667",
+   "checkedAt": "2026-11-14T19:45:41Z",
+   "copyright": "© Copyright 2021 Studio Drydock Pty Ltd",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-06T00:00:00",
+   "releaseDateDisplay": "2026-11-06",
+   "size": 3117636989,
+   "status": "ok",
+   "storeLabel": "1.7.5",
+   "version": "1.7.5"
   }
  }
 }
