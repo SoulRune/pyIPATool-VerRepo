@@ -2,14 +2,14 @@
  "appId": 1478978570,
  "arcade": true,
  "bundleId": "com.hipsterwhale.crossycastle",
- "latestExternalVersionId": "892384172",
+ "latestExternalVersionId": "894123923",
  "name": "Crossy Road Castle",
  "schema": 1,
  "store": {
-  "date": "2026-10-20T21:39:27Z",
-  "version": "12.4"
+  "date": "2026-11-07T02:24:52Z",
+  "version": "12.5"
  },
- "updatedAt": "2026-11-01T22:33:30Z",
+ "updatedAt": "2026-11-14T19:45:23Z",
  "versions": {
   "832652523": {
    "ageRating": "4+",
@@ -725,6 +725,24 @@
    "status": "ok",
    "storeLabel": "12.4",
    "version": "12.4"
+  },
+  "894123923": {
+   "ageRating": "4+",
+   "artist": "HIPSTER WHALE",
+   "build": "24031",
+   "checkedAt": "2026-11-14T19:45:23Z",
+   "copyright": "© 2024 Hipster Whale Pty Ltd",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-07T00:00:00",
+   "releaseDateDisplay": "2026-11-07",
+   "size": 364494102,
+   "status": "ok",
+   "storeLabel": "12.5",
+   "version": "12.5"
   }
  }
 }
