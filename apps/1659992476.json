@@ -2,14 +2,14 @@
  "appId": 1659992476,
  "arcade": true,
  "bundleId": "com.lykkestudios.puffies",
- "latestExternalVersionId": "891504232",
+ "latestExternalVersionId": "893183780",
  "name": "puffies.",
  "schema": 1,
  "store": {
-  "date": "2026-10-14T21:45:20Z",
-  "version": "1.22"
+  "date": "2026-11-11T22:52:17Z",
+  "version": "1.23"
  },
- "updatedAt": "2026-11-01T22:35:27Z",
+ "updatedAt": "2026-11-14T19:51:29Z",
  "versions": {
   "853913182": {
    "ageRating": "4+",
@@ -434,6 +434,24 @@
    "status": "ok",
    "storeLabel": "1.22",
    "version": "1.22"
+  },
+  "893183780": {
+   "ageRating": "4+",
+   "artist": "Lykkegaard Europe Limited",
+   "build": "1.23.05",
+   "checkedAt": "2026-11-14T19:51:29Z",
+   "copyright": "© Lykkegaard Europe Limited",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-11T00:00:00",
+   "releaseDateDisplay": "2026-11-11",
+   "size": 422809041,
+   "status": "ok",
+   "storeLabel": "1.23",
+   "version": "1.23"
   }
  }
 }
