@@ -2,14 +2,14 @@
  "appId": 1551538909,
  "arcade": true,
  "bundleId": "com.kristanix.arcade.mahjongtitan",
- "latestExternalVersionId": "893858017",
+ "latestExternalVersionId": "894306652",
  "name": "Mahjong Titan+",
  "schema": 1,
  "store": {
-  "date": "2026-10-27T19:37:21Z",
-  "version": "3.0.0"
+  "date": "2026-11-04T18:21:49Z",
+  "version": "3.0.2"
  },
- "updatedAt": "2026-11-01T22:31:47Z",
+ "updatedAt": "2026-11-14T19:42:48Z",
  "versions": {
   "840284906": {
    "ageRating": "4+",
@@ -471,6 +471,24 @@
    "status": "ok",
    "storeLabel": "3.0.0",
    "version": "3.0.0"
+  },
+  "894306652": {
+   "ageRating": "4+",
+   "artist": "Kristanix AS",
+   "build": "142",
+   "checkedAt": "2026-11-14T19:42:48Z",
+   "copyright": "© 2026 Kristanix Games",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-04T00:00:00",
+   "releaseDateDisplay": "2026-11-04",
+   "size": 84930434,
+   "status": "ok",
+   "storeLabel": "3.0.2",
+   "version": "3.0.2"
   }
  }
 }
