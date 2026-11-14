@@ -2,14 +2,14 @@
  "appId": 1625907876,
  "arcade": true,
  "bundleId": "com.mtvn.tmntsplinteredfate",
- "latestExternalVersionId": "890247785",
+ "latestExternalVersionId": "893458039",
  "name": "TMNT Splintered Fate",
  "schema": 1,
  "store": {
-  "date": "2026-08-28T20:01:24Z",
-  "version": "2.0.3"
+  "date": "2026-11-03T17:36:26Z",
+  "version": "2.1.0"
  },
- "updatedAt": "2026-11-01T22:28:47Z",
+ "updatedAt": "2026-11-14T18:37:53Z",
  "versions": {
   "849426659": {
    "ageRating": "13+",
@@ -498,6 +498,24 @@
    "status": "ok",
    "storeLabel": "2.0.3",
    "version": "2.0.3"
+  },
+  "893458039": {
+   "ageRating": "13+",
+   "artist": "Viacom International Inc.",
+   "build": "264522",
+   "checkedAt": "2026-11-14T18:37:53Z",
+   "copyright": "© 2023 Viacom International Inc.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-03T00:00:00",
+   "releaseDateDisplay": "2026-11-03",
+   "size": 1190856911,
+   "status": "ok",
+   "storeLabel": "2.1.0",
+   "version": "2.1.0"
   }
  }
 }
