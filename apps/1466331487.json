@@ -2,14 +2,14 @@
  "appId": 1466331487,
  "arcade": true,
  "bundleId": "com.snowman.wcf",
- "latestExternalVersionId": "893423752",
+ "latestExternalVersionId": "893822727",
  "name": "Where Cards Fall",
  "schema": 1,
  "store": {
-  "date": "2026-10-21T00:48:23Z",
-  "version": "1.5.9"
+  "date": "2026-11-06T19:08:06Z",
+  "version": "1.5.10"
  },
- "updatedAt": "2026-11-01T22:34:53Z",
+ "updatedAt": "2026-11-14T19:48:34Z",
  "versions": {
   "831522270": {
    "ageRating": "13+",
@@ -308,6 +308,24 @@
    "status": "ok",
    "storeLabel": "1.5.9",
    "version": "1.5.9"
+  },
+  "893822727": {
+   "ageRating": "13+",
+   "artist": "Snowman",
+   "build": "194",
+   "checkedAt": "2026-11-14T19:48:34Z",
+   "copyright": "© Snowman",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-06T00:00:00",
+   "releaseDateDisplay": "2026-11-06",
+   "size": 594715665,
+   "status": "ok",
+   "storeLabel": "1.5.10",
+   "version": "1.5.10"
   }
  }
 }
