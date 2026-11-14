@@ -2,14 +2,14 @@
  "appId": 1553505132,
  "arcade": true,
  "bundleId": "com.SunblinkEntertainment.HelloKitty",
- "latestExternalVersionId": "893465381",
+ "latestExternalVersionId": "894171860",
  "name": "Hello Kitty Island Adventure",
  "schema": 1,
  "store": {
-  "date": "2026-10-21T18:35:37Z",
-  "version": "3.0.5"
+  "date": "2026-11-04T14:01:49Z",
+  "version": "3.1.0"
  },
- "updatedAt": "2026-11-01T22:26:37Z",
+ "updatedAt": "2026-11-14T18:36:20Z",
  "versions": {
   "840470728": {
    "ageRating": "4+",
@@ -1780,6 +1780,24 @@
    "status": "ok",
    "storeLabel": "3.0.5",
    "version": "3.0.5"
+  },
+  "894171860": {
+   "ageRating": "4+",
+   "artist": "Sunblink",
+   "build": "6142",
+   "checkedAt": "2026-11-14T18:36:20Z",
+   "copyright": "© 2026 Sunblink Entertainment LLC",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-04T00:00:00",
+   "releaseDateDisplay": "2026-11-04",
+   "size": 2600446894,
+   "status": "ok",
+   "storeLabel": "3.1.0",
+   "version": "3.1.0"
   }
  }
 }
