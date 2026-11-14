@@ -2,35 +2,35 @@
  "appId": 1098342019,
  "arcade": true,
  "bundleId": "com.rac7.SneakySasquatch",
- "latestExternalVersionId": "893706318",
+ "latestExternalVersionId": "894598235",
  "name": "Sneaky Sasquatch",
  "schema": 1,
  "store": {
-  "date": "2026-10-23T01:48:33Z",
-  "version": "2.2.1"
+  "date": "2026-11-05T23:52:15Z",
+  "version": "2.2.2"
  },
- "updatedAt": "2026-11-01T22:24:59Z",
+ "updatedAt": "2026-11-14T18:35:17Z",
  "versions": {
   "816904780": {
-   "checkedAt": "2026-11-01T22:24:59Z",
+   "checkedAt": "2026-11-14T18:35:17Z",
    "error": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
    "listedByApple": true,
    "status": "unknown"
   },
   "832252653": {
-   "checkedAt": "2026-11-01T22:24:57Z",
+   "checkedAt": "2026-11-14T18:35:15Z",
    "error": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
    "listedByApple": true,
    "status": "unknown"
   },
   "832579834": {
-   "checkedAt": "2026-11-01T22:24:55Z",
+   "checkedAt": "2026-11-14T18:35:14Z",
    "error": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
    "listedByApple": true,
    "status": "unknown"
   },
   "832667115": {
-   "checkedAt": "2026-11-01T22:24:54Z",
+   "checkedAt": "2026-11-14T18:35:12Z",
    "error": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
    "listedByApple": true,
    "status": "unknown"
@@ -52,7 +52,7 @@
    "version": "1.0.6"
   },
   "832779426": {
-   "checkedAt": "2026-11-01T22:24:52Z",
+   "checkedAt": "2026-11-14T18:35:09Z",
    "error": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
    "listedByApple": true,
    "status": "unknown"
@@ -1236,6 +1236,24 @@
    "status": "ok",
    "storeLabel": "2.2.1",
    "version": "2.2.1"
+  },
+  "894598235": {
+   "ageRating": "4+",
+   "artist": "RAC7 Games",
+   "build": "1858",
+   "checkedAt": "2026-11-14T18:35:07Z",
+   "copyright": "© 2026 Apple Inc. All rights reserved.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.6",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-05T00:00:00",
+   "releaseDateDisplay": "2026-11-05",
+   "size": 394390776,
+   "status": "ok",
+   "storeLabel": "2.2.2",
+   "version": "2.2.2"
   }
  }
 }
