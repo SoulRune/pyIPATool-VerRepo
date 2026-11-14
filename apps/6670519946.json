@@ -2,14 +2,14 @@
  "appId": 6670519946,
  "arcade": true,
  "bundleId": "jp.co.imagineer.sumikkogurashi.sumisumi.arcade",
- "latestExternalVersionId": "892618622",
+ "latestExternalVersionId": "893894979",
  "name": "SUMI SUMI : Matching Puzzle+",
  "schema": 1,
  "store": {
-  "date": "2026-10-08T15:29:51Z",
-  "version": "1.17.0"
+  "date": "2026-11-05T22:32:03Z",
+  "version": "1.18.0"
  },
- "updatedAt": "2026-11-01T22:35:57Z",
+ "updatedAt": "2026-11-14T19:53:26Z",
  "versions": {
   "868765650": {
    "ageRating": "4+",
@@ -366,6 +366,24 @@
    "status": "ok",
    "storeLabel": "1.17.0",
    "version": "1.17.0"
+  },
+  "893894979": {
+   "ageRating": "4+",
+   "artist": "Imagineer Co.,Ltd.",
+   "build": "1.18.0.1313",
+   "checkedAt": "2026-11-14T19:53:26Z",
+   "copyright": "© 2025 San-X Co., Ltd. All Rights Reserved. © Imagineer Co., Ltd.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-05T00:00:00",
+   "releaseDateDisplay": "2026-11-05",
+   "size": 459845373,
+   "status": "ok",
+   "storeLabel": "1.18.0",
+   "version": "1.18.0"
   }
  }
 }
