@@ -6,10 +6,10 @@
  "name": "Snake.io+",
  "schema": 1,
  "store": {
-  "date": "2026-07-31T18:54:09Z",
-  "version": "1.0.18"
+  "date": "2026-11-04T22:51:06Z",
+  "version": "1.0.19"
  },
- "updatedAt": "2026-11-01T22:33:08Z",
+ "updatedAt": "2026-11-15T07:06:17Z",
  "versions": {
   "852451488": {
    "ageRating": "4+",
@@ -333,6 +333,22 @@
    "status": "ok",
    "storeLabel": "1.0.18",
    "version": "1.0.18"
+  },
+  "893992291": {
+   "ageRating": "4+",
+   "artist": "Kooapps",
+   "build": "261028.1",
+   "checkedAt": "2026-11-15T07:06:17Z",
+   "copyright": "© 2023 Kooapps LLC",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDateDisplay": "Unknown (2023-05-04)",
+   "size": 109525638,
+   "status": "ok",
+   "version": "1.0.19"
   }
  }
 }
