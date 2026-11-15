@@ -2,14 +2,14 @@
  "appId": 1466331487,
  "arcade": true,
  "bundleId": "com.snowman.wcf",
- "latestExternalVersionId": "893822727",
+ "latestExternalVersionId": "893423752",
  "name": "Where Cards Fall",
  "schema": 1,
  "store": {
   "date": "2026-11-06T19:08:06Z",
   "version": "1.5.10"
  },
- "updatedAt": "2026-11-14T19:48:34Z",
+ "updatedAt": "2026-11-15T07:06:54Z",
  "versions": {
   "831522270": {
    "ageRating": "13+",
