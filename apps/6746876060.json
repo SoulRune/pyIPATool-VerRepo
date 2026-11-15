@@ -2,14 +2,14 @@
  "appId": 6746876060,
  "arcade": true,
  "bundleId": "com.bigduckgames.flowplus",
- "latestExternalVersionId": "893189215",
+ "latestExternalVersionId": "883984610",
  "name": "Flow Free+",
  "schema": 1,
  "store": {
   "date": "2026-10-29T17:12:30Z",
   "version": "1.2"
  },
- "updatedAt": "2026-11-14T19:43:28Z",
+ "updatedAt": "2026-11-15T07:05:39Z",
  "versions": {
   "875362619": {
    "ageRating": "4+",
