@@ -2,14 +2,14 @@
  "appId": 1458605549,
  "arcade": true,
  "bundleId": "com.studiodrydock.mayflower",
- "latestExternalVersionId": "894435867",
+ "latestExternalVersionId": "892131505",
  "name": "Wylde Flowers",
  "schema": 1,
  "store": {
   "date": "2026-11-06T17:17:08Z",
   "version": "1.7.5"
  },
- "updatedAt": "2026-11-14T19:45:41Z",
+ "updatedAt": "2026-11-15T07:06:26Z",
  "versions": {
   "830853390": {
    "ageRating": "13+",
