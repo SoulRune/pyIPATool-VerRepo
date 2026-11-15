@@ -9,40 +9,40 @@
   "date": "2022-12-08T17:51:13Z",
   "version": "4.1"
  },
- "updatedAt": "2026-11-14T19:31:42Z",
+ "updatedAt": "2026-11-15T07:03:19Z",
  "versions": {
   "818437804": {
-   "checkedAt": "2026-11-14T19:31:42Z",
+   "checkedAt": "2026-11-15T07:03:19Z",
    "error": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
    "listedByApple": true,
    "status": "unknown"
   },
   "832152762": {
-   "checkedAt": "2026-11-14T19:31:40Z",
+   "checkedAt": "2026-11-15T07:03:09Z",
    "error": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
    "listedByApple": true,
    "status": "unknown"
   },
   "832363858": {
-   "checkedAt": "2026-11-14T19:31:33Z",
+   "checkedAt": "2026-11-15T07:03:02Z",
    "error": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
    "listedByApple": true,
    "status": "unknown"
   },
   "832371875": {
-   "checkedAt": "2026-11-14T19:31:22Z",
+   "checkedAt": "2026-11-15T07:02:59Z",
    "error": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
    "listedByApple": true,
    "status": "unknown"
   },
   "832371876": {
-   "checkedAt": "2026-11-14T19:31:20Z",
+   "checkedAt": "2026-11-15T07:02:57Z",
    "error": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
    "listedByApple": true,
    "status": "unknown"
   },
   "832599457": {
-   "checkedAt": "2026-11-14T19:31:16Z",
+   "checkedAt": "2026-11-15T07:02:52Z",
    "error": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
    "listedByApple": true,
    "status": "unknown"
@@ -64,7 +64,7 @@
    "version": "100.0.190914"
   },
   "832779560": {
-   "checkedAt": "2026-11-14T19:31:14Z",
+   "checkedAt": "2026-11-15T07:02:50Z",
    "error": "redownload request failed: unexpected response from Apple (downloaddispatch.itunes.apple.com: HTTP 403, text/xml)",
    "listedByApple": true,
    "status": "unknown"
