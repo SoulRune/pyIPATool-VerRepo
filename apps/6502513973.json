@@ -2,14 +2,14 @@
  "appId": 6502513973,
  "arcade": true,
  "bundleId": "com.lively.pawpaw",
- "latestExternalVersionId": "894241409",
+ "latestExternalVersionId": "892293206",
  "name": "Pusheen’s Place",
  "schema": 1,
  "store": {
   "date": "2026-11-03T23:04:54Z",
   "version": "1.0.2"
  },
- "updatedAt": "2026-11-14T19:39:18Z",
+ "updatedAt": "2026-11-15T07:05:05Z",
  "versions": {
   "865829666": {
    "ageRating": "4+",
