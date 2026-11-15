@@ -2,14 +2,14 @@
  "appId": 1551538909,
  "arcade": true,
  "bundleId": "com.kristanix.arcade.mahjongtitan",
- "latestExternalVersionId": "894306652",
+ "latestExternalVersionId": "893858017",
  "name": "Mahjong Titan+",
  "schema": 1,
  "store": {
   "date": "2026-11-04T18:21:49Z",
   "version": "3.0.2"
  },
- "updatedAt": "2026-11-14T19:42:48Z",
+ "updatedAt": "2026-11-15T07:05:28Z",
  "versions": {
   "840284906": {
    "ageRating": "4+",
