@@ -2,14 +2,14 @@
  "appId": 1598096399,
  "arcade": true,
  "bundleId": "com.halfbrick.jetpackjoyride2",
- "latestExternalVersionId": "894141592",
+ "latestExternalVersionId": "893508293",
  "name": "Jetpack Joyride 2",
  "schema": 1,
  "store": {
   "date": "2026-11-11T22:52:38Z",
   "version": "5.6.10"
  },
- "updatedAt": "2026-11-14T19:44:19Z",
+ "updatedAt": "2026-11-15T07:06:03Z",
  "versions": {
   "845675659": {
    "ageRating": "9+",
