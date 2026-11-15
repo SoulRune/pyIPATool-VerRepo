@@ -1,432 +1,432 @@
 {
  "apps": [
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "DREDGE+",
    "spec": "6753196416"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Cozy Caravan",
    "spec": "6740474743"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Sneaky Sasquatch",
    "spec": "1098342019"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Block Blast!+",
    "spec": "6766824098"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Castle Crumble",
    "spec": "1616814625"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Sid Meier's Civilization® VII",
    "spec": "6744373452"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Disney Dreamlight Valley",
    "spec": "6456945575"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Cult of the Lamb",
    "spec": "1639580858"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "It's Literally Just Mowing+",
    "spec": "6502628901"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Oceanhorn 3",
    "spec": "1539411904"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Oceanhorn 2",
    "spec": "1141837408"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Angry Birds Reloaded",
    "spec": "1539172625"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Angry Birds Bounce",
    "spec": "6462195757"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Hello Kitty Island Adventure",
    "spec": "1553505132"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "TIME LOCKER+",
    "spec": "1673684254"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Touchgrind BMX 2+",
    "spec": "6751571320"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Bloons TD 6+",
    "spec": "1584423325"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Bloons TD Battles 2+",
    "spec": "6466410976"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Kingdom Rush Vengeance TD+",
    "spec": "1610130712"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Kingdom Rush 5: Alliance TD+",
    "spec": "6741771054"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Kingdom Rush Frontiers TD+",
    "spec": "1579364157"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Sago Mini Jinja's Garden",
    "spec": "6477492925"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Temple Run+",
    "spec": "1633285841"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Zen Koi Pro+",
    "spec": "6478104159"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "PPKP+",
    "spec": "6445910008"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "River City Survivors",
    "spec": "6749604300"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Terraria+",
    "spec": "6747169764"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Goat Simulator+",
    "spec": "1605596993"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Tamagotchi Adventure Kingdom",
    "spec": "1614952689"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "PowerWash Simulator",
    "spec": "6477445344"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Taiko no Tatsujin Pop Tap Beat",
    "spec": "1463360242"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "TMNT Splintered Fate",
    "spec": "1625907876"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "The Last Campfire",
    "spec": "973039644"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Katamari Damacy Rolling LIVE",
    "spec": "6449352814"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Grindstone",
    "spec": "1357426636"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Human Fall Flat+",
    "spec": "1632286352"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Gibbon: Beyond the Trees",
    "spec": "1482634476"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Lost in Play+",
    "spec": "6739293760"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "LEGO® Builder's Journey",
    "spec": "1441636691"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Cityscapes: Sim Builder",
    "spec": "1631153096"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Subway Surfers+",
    "spec": "6744608300"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Worms Across Worlds",
    "spec": "6475792950"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Junkworld TD",
    "spec": "6448185316"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "The Battle of Polytopia+",
    "spec": "6463000253"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Turmoil+",
    "spec": "6446276883"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Pusheen’s Place",
    "spec": "6502513973"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Alba: A Wildlife Adventure",
    "spec": "1528014682"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Dungeon Clawler+",
    "spec": "6752933732"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "RollerCoaster Tycoon® Classic+",
    "spec": "6702028686"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Creatures of the Deep+",
    "spec": "6756007771"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Pocket City 2+",
    "spec": "6748041195"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Furistas Cat Cafe+",
    "spec": "6502735877"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Piffle+",
    "spec": "6742088715"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Water Sort Puzzle: Get Color+",
    "spec": "6754882272"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Mahjong Titan+",
    "spec": "1551538909"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Food Truck Pup+",
    "spec": "6477910356"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Flow Free+",
    "spec": "6746876060"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Japanese Rural Life Adventure",
    "spec": "1634749545"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Bridge Constructor+",
    "spec": "1587908263"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Good Pizza, Great Pizza+",
    "spec": "6752314651"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Zookeeper World",
    "spec": "1370858242"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Jetpack Joyride 2",
    "spec": "1598096399"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Jetpack Joyride+",
    "spec": "1550866882"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Perchang World",
    "spec": "6477922353"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Snake.io+",
    "spec": "6443553808"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Crossy Road+",
    "spec": "1559490508"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Crossy Road Castle",
    "spec": "1478978570"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Wylde Flowers",
    "spec": "1458605549"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Simon's Cat - Blast Time",
    "spec": "1535011471"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "My Talking Tom 2+",
    "spec": "6761451337"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Mini Metro+",
    "spec": "1550663539"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Everybody Shogi",
    "spec": "6737407490"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Coffee Inc 2+",
    "spec": "6749188193"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Retrocade",
    "spec": "6746784702"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Let's Play! Oink Games+",
    "spec": "6755094405"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Balatro+",
    "spec": "6502451661"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Where Cards Fall",
    "spec": "1466331487"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Play-Doh World",
    "spec": "6692621197"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Pocket Love!+",
    "spec": "6745787291"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Fruit Ninja Classic+",
    "spec": "1552127102"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Cooking Mama: Cuisine!",
    "spec": "1563901930"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "puffies.",
    "spec": "1659992476"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "SongPop Party",
    "spec": "1551639567"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "PGA TOUR Pro Golf",
    "spec": "6545262709"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Crayola Adventures",
    "spec": "6444109249"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "SUMI SUMI : Matching Puzzle+",
    "spec": "6670519946"
   },
@@ -456,50 +456,50 @@
    "spec": "1094038347"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "A Slight Chance of Sawblades+",
    "spec": "6478231600"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Vampire Survivors+",
    "spec": "6478975337"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Skate City",
    "spec": "1182476302"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Tomb of the Mask+",
    "spec": "6476391931"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Draw it+",
    "spec": "6759712869"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Family Feud Pocket",
    "spec": "6738505944"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Rodeo Stampede+",
    "spec": "6596757342"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Potion Punch 2+",
    "spec": "6636548835"
   },
   {
-   "account": "4b7655544e88",
+   "account": "8f7d6bd6d15a",
    "name": "Gear.Club Stradale",
    "spec": "1544427904"
   }
  ],
- "updatedAt": "2026-11-15T07:01:32Z"
+ "updatedAt": "2026-11-15T07:01:43Z"
 }
