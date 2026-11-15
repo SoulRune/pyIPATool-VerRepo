@@ -2,14 +2,14 @@
  "appId": 6742088715,
  "arcade": true,
  "bundleId": "com.hipsterwhale.piffleplus",
- "latestExternalVersionId": "893961140",
+ "latestExternalVersionId": "888317052",
  "name": "Piffle+",
  "schema": 1,
  "store": {
   "date": "2026-11-05T15:59:36Z",
   "version": "1.7"
  },
- "updatedAt": "2026-11-14T19:41:59Z",
+ "updatedAt": "2026-11-15T07:05:22Z",
  "versions": {
   "872549457": {
    "ageRating": "4+",
