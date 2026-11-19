@@ -2,14 +2,14 @@
  "appId": 6445910008,
  "arcade": true,
  "bundleId": "com.toshi.ppkp",
- "latestExternalVersionId": "868580977",
+ "latestExternalVersionId": "895336373",
  "name": "PPKP+",
  "schema": 1,
  "store": {
-  "date": "2026-11-10T14:44:29Z",
-  "version": "0.5.2"
+  "date": "2026-11-17T22:46:30Z",
+  "version": "0.5.3"
  },
- "updatedAt": "2026-11-15T07:04:09Z",
+ "updatedAt": "2026-11-19T19:24:40Z",
  "versions": {
   "855223966": {
    "ageRating": "13+",
@@ -148,6 +148,24 @@
    "status": "ok",
    "storeLabel": "0.5.2",
    "version": "0.5.2"
+  },
+  "895336373": {
+   "ageRating": "13+",
+   "artist": "SHIMADA TOSHIHIRO",
+   "build": "0.5.3",
+   "checkedAt": "2026-11-19T19:24:40Z",
+   "copyright": "© 2023-2026 Toshihiro Shimada. All rights reserved.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-17T00:00:00",
+   "releaseDateDisplay": "2026-11-17",
+   "size": 69539004,
+   "status": "ok",
+   "storeLabel": "0.5.3",
+   "version": "0.5.3"
   }
  }
 }
