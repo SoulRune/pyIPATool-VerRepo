@@ -2,14 +2,14 @@
  "appId": 1463360242,
  "arcade": true,
  "bundleId": "jp.co.bandainamcoent.BNEI0361",
- "latestExternalVersionId": "891510745",
+ "latestExternalVersionId": "895204517",
  "name": "Taiko no Tatsujin Pop Tap Beat",
  "schema": 1,
  "store": {
-  "date": "2026-09-23T21:37:12Z",
-  "version": "2.0.0"
+  "date": "2026-11-18T22:57:04Z",
+  "version": "2.1.0"
  },
- "updatedAt": "2026-11-15T07:04:29Z",
+ "updatedAt": "2026-11-19T19:25:24Z",
  "versions": {
   "831285082": {
    "ageRating": "4+",
@@ -661,6 +661,24 @@
    "status": "ok",
    "storeLabel": "2.0.0",
    "version": "2.0.0"
+  },
+  "895204517": {
+   "ageRating": "4+",
+   "artist": "Bandai Namco Entertainment Inc.",
+   "build": "196",
+   "checkedAt": "2026-11-19T19:25:24Z",
+   "copyright": "©︎ 2020 BANDAI NAMCO Entertainment Inc.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-18T00:00:00",
+   "releaseDateDisplay": "2026-11-18",
+   "size": 1433008935,
+   "status": "ok",
+   "storeLabel": "2.1.0",
+   "version": "2.1.0"
   }
  }
 }
