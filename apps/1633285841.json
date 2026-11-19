@@ -2,14 +2,14 @@
  "appId": 1633285841,
  "arcade": true,
  "bundleId": "com.imangi.templerunplus",
- "latestExternalVersionId": "885137053",
+ "latestExternalVersionId": "894249659",
  "name": "Temple Run+",
  "schema": 1,
  "store": {
-  "date": "2026-05-13T21:47:44Z",
-  "version": "1.18"
+  "date": "2026-11-18T18:51:13Z",
+  "version": "1.19"
  },
- "updatedAt": "2026-11-15T07:04:05Z",
+ "updatedAt": "2026-11-19T19:24:22Z",
  "versions": {
   "850661579": {
    "ageRating": "9+",
@@ -383,6 +383,24 @@
    "status": "ok",
    "storeLabel": "1.18",
    "version": "1.18.0"
+  },
+  "894249659": {
+   "ageRating": "9+",
+   "artist": "Imangi Studios, LLC",
+   "build": "29887436.376",
+   "checkedAt": "2026-11-19T19:24:22Z",
+   "copyright": "© 2022 Imangi Studios",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-18T00:00:00",
+   "releaseDateDisplay": "2026-11-18",
+   "size": 126422212,
+   "status": "ok",
+   "storeLabel": "1.19",
+   "version": "1.19.0"
   }
  }
 }
