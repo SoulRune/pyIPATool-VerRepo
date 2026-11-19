@@ -2,14 +2,14 @@
  "appId": 1605596993,
  "arcade": true,
  "bundleId": "com.coffeestainstudios.goatsimulator.arcade",
- "latestExternalVersionId": "892282407",
+ "latestExternalVersionId": "893994117",
  "name": "Goat Simulator+",
  "schema": 1,
  "store": {
-  "date": "2026-10-21T21:33:27Z",
-  "version": "1.17"
+  "date": "2026-11-18T22:58:42Z",
+  "version": "1.18"
  },
- "updatedAt": "2026-11-15T07:04:23Z",
+ "updatedAt": "2026-11-19T19:25:02Z",
  "versions": {
   "846677509": {
    "ageRating": "13+",
@@ -600,6 +600,24 @@
    "status": "ok",
    "storeLabel": "1.17",
    "version": "1.17"
+  },
+  "893994117": {
+   "ageRating": "13+",
+   "artist": "Coffee Stain Publishing",
+   "build": "517403",
+   "checkedAt": "2026-11-19T19:25:02Z",
+   "copyright": "© 2022, Coffee Stain Studios",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-18T00:00:00",
+   "releaseDateDisplay": "2026-11-18",
+   "size": 1693199771,
+   "status": "ok",
+   "storeLabel": "1.18",
+   "version": "1.18"
   }
  }
 }
