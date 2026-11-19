@@ -1,0 +1,50 @@
+{
+ "appId": 6749934429,
+ "arcade": true,
+ "bundleId": "com.zeste.foodstylistplus",
+ "latestExternalVersionId": "891973399",
+ "name": "Food Stylist - Design Game+",
+ "schema": 1,
+ "store": {
+  "date": "2026-11-05T08:00:00Z",
+  "version": "1.0.1"
+ },
+ "updatedAt": "2026-11-19T19:59:40Z",
+ "versions": {
+  "877213881": {
+   "ageRating": "4+",
+   "artist": "Zeste",
+   "build": "2",
+   "checkedAt": "2026-11-19T19:59:40Z",
+   "copyright": "© 2026 Zeste Pty Ltd",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-09-19T00:00:00",
+   "releaseDateDisplay": "2026-09-19",
+   "size": 1443604680,
+   "status": "ok",
+   "version": "1.0.0"
+  },
+  "891973399": {
+   "ageRating": "4+",
+   "artist": "Zeste",
+   "build": "9",
+   "checkedAt": "2026-11-19T19:59:35Z",
+   "copyright": "© 2026 Zeste Pty Ltd",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-10-05T00:00:00",
+   "releaseDateDisplay": "2026-10-05",
+   "size": 1444162613,
+   "status": "ok",
+   "storeLabel": "1.0.1",
+   "version": "1.0.1"
+  }
+ }
+}
