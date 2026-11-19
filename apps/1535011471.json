@@ -2,14 +2,14 @@
  "appId": 1535011471,
  "arcade": true,
  "bundleId": "com.tactilegames.simonscatstorytime",
- "latestExternalVersionId": "892259840",
+ "latestExternalVersionId": "894705469",
  "name": "Simon's Cat - Blast Time",
  "schema": 1,
  "store": {
-  "date": "2026-10-21T21:34:31Z",
-  "version": "1.67.0"
+  "date": "2026-11-18T22:59:38Z",
+  "version": "1.68.0"
  },
- "updatedAt": "2026-11-15T07:06:29Z",
+ "updatedAt": "2026-11-19T19:30:41Z",
  "versions": {
   "838123620": {
    "ageRating": "9+",
@@ -1333,6 +1333,24 @@
    "status": "ok",
    "storeLabel": "1.67.0",
    "version": "1.67.0"
+  },
+  "894705469": {
+   "ageRating": "9+",
+   "artist": "Tactile Games Limited",
+   "build": "781466",
+   "checkedAt": "2026-11-19T19:30:41Z",
+   "copyright": "© Tactile Games Limited 2026",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "17.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-18T00:00:00",
+   "releaseDateDisplay": "2026-11-18",
+   "size": 243388589,
+   "status": "ok",
+   "storeLabel": "1.68.0",
+   "version": "1.68.0"
   }
  }
 }
