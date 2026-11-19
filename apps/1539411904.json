@@ -2,14 +2,14 @@
  "appId": 1539411904,
  "arcade": true,
  "bundleId": "com.cornfox.oceanhorn3",
- "latestExternalVersionId": "890043987",
+ "latestExternalVersionId": "893977999",
  "name": "Oceanhorn 3",
  "schema": 1,
  "store": {
-  "date": "2026-08-27T19:50:32Z",
-  "version": "2.1.1"
+  "date": "2026-11-17T16:32:35Z",
+  "version": "2.2.0"
  },
- "updatedAt": "2026-11-15T07:02:43Z",
+ "updatedAt": "2026-11-19T19:22:10Z",
  "versions": {
   "838790606": {
    "ageRating": "9+",
@@ -204,6 +204,24 @@
    "status": "ok",
    "storeLabel": "2.1.1",
    "version": "100.124040.260819"
+  },
+  "893977999": {
+   "ageRating": "9+",
+   "artist": "Cornfox & Brothers Ltd.",
+   "build": "1.286",
+   "checkedAt": "2026-11-19T19:22:10Z",
+   "copyright": "© 2026 Cornfox & Brothers Ltd.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-17T00:00:00",
+   "releaseDateDisplay": "2026-11-17",
+   "size": 3664311746,
+   "status": "ok",
+   "storeLabel": "2.2.0",
+   "version": "100.126463.261104"
   }
  }
 }
