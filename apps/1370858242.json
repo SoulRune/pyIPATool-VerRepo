@@ -2,14 +2,14 @@
  "appId": 1370858242,
  "arcade": true,
  "bundleId": "jp.kiteretsu.zookeeper.world",
- "latestExternalVersionId": "892801852",
+ "latestExternalVersionId": "894190614",
  "name": "Zookeeper World",
  "schema": 1,
  "store": {
-  "date": "2026-10-28T22:27:06Z",
-  "version": "11.2.0"
+  "date": "2026-11-18T23:01:18Z",
+  "version": "11.3.0"
  },
- "updatedAt": "2026-11-15T07:05:59Z",
+ "updatedAt": "2026-11-19T19:29:48Z",
  "versions": {
   "826646704": {
    "ageRating": "13+",
@@ -1512,6 +1512,24 @@
    "status": "ok",
    "storeLabel": "11.2.0",
    "version": "11.2.0"
+  },
+  "894190614": {
+   "ageRating": "13+",
+   "artist": "KITERETSU INC.",
+   "build": "576",
+   "checkedAt": "2026-11-19T19:29:48Z",
+   "copyright": "© KITERETSU Inc.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-18T00:00:00",
+   "releaseDateDisplay": "2026-11-18",
+   "size": 506156812,
+   "status": "ok",
+   "storeLabel": "11.3.0",
+   "version": "11.3.0"
   }
  }
 }
