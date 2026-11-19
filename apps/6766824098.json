@@ -2,14 +2,14 @@
  "appId": 6766824098,
  "arcade": true,
  "bundleId": "com.arcade.block.blast",
- "latestExternalVersionId": "893144217",
+ "latestExternalVersionId": "895203423",
  "name": "Block Blast!+",
  "schema": 1,
  "store": {
-  "date": "2026-10-21T21:31:20Z",
-  "version": "1.0.4"
+  "date": "2026-11-18T22:56:20Z",
+  "version": "1.0.5"
  },
- "updatedAt": "2026-11-15T07:02:26Z",
+ "updatedAt": "2026-11-19T19:21:20Z",
  "versions": {
   "885320699": {
    "ageRating": "4+",
@@ -107,6 +107,24 @@
    "status": "ok",
    "storeLabel": "1.0.4",
    "version": "1.0.4"
+  },
+  "895203423": {
+   "ageRating": "4+",
+   "artist": "Hungry Studio",
+   "build": "1051",
+   "checkedAt": "2026-11-19T19:21:20Z",
+   "copyright": "© 2022 Hungry Studio",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-18T00:00:00",
+   "releaseDateDisplay": "2026-11-18",
+   "size": 270135975,
+   "status": "ok",
+   "storeLabel": "1.0.5",
+   "version": "1.0.5"
   }
  }
 }
