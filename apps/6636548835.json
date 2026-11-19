@@ -2,14 +2,14 @@
  "appId": 6636548835,
  "arcade": true,
  "bundleId": "com.monstronauts.potionpunch2plus",
- "latestExternalVersionId": "894117267",
+ "latestExternalVersionId": "895033281",
  "name": "Potion Punch 2+",
  "schema": 1,
  "store": {
-  "date": "2026-11-03T18:19:40Z",
-  "version": "1.52.01"
+  "date": "2026-11-18T23:00:34Z",
+  "version": "1.53.00"
  },
- "updatedAt": "2026-11-15T07:07:52Z",
+ "updatedAt": "2026-11-19T19:34:00Z",
  "versions": {
   "868238584": {
    "ageRating": "4+",
@@ -520,6 +520,24 @@
    "status": "ok",
    "storeLabel": "1.52.01",
    "version": "1.52.01"
+  },
+  "895033281": {
+   "ageRating": "4+",
+   "artist": "Monstronauts",
+   "build": "2687",
+   "checkedAt": "2026-11-19T19:34:00Z",
+   "copyright": "© 2026 Monstronauts Inc.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-18T00:00:00",
+   "releaseDateDisplay": "2026-11-18",
+   "size": 704389925,
+   "status": "ok",
+   "storeLabel": "1.53.00",
+   "version": "1.53.00"
   }
  }
 }
