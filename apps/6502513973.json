@@ -2,14 +2,14 @@
  "appId": 6502513973,
  "arcade": true,
  "bundleId": "com.lively.pawpaw",
- "latestExternalVersionId": "892293206",
+ "latestExternalVersionId": "894559730",
  "name": "Pusheen’s Place",
  "schema": 1,
  "store": {
-  "date": "2026-11-03T23:04:54Z",
-  "version": "1.0.2"
+  "date": "2026-11-18T22:55:40Z",
+  "version": "1.1.0"
  },
- "updatedAt": "2026-11-15T07:05:05Z",
+ "updatedAt": "2026-11-19T19:27:55Z",
  "versions": {
   "865829666": {
    "ageRating": "4+",
@@ -79,6 +79,24 @@
    "status": "ok",
    "storeLabel": "1.0.2",
    "version": "1.0.2"
+  },
+  "894559730": {
+   "ageRating": "4+",
+   "artist": "Electric Square Ltd",
+   "build": "6394.392759",
+   "checkedAt": "2026-11-19T19:27:55Z",
+   "copyright": "© 2024 Electric Square Ltd",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "16.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-18T00:00:00",
+   "releaseDateDisplay": "2026-11-18",
+   "size": 357536025,
+   "status": "ok",
+   "storeLabel": "1.1.0",
+   "version": "1.1.0"
   }
  }
 }
