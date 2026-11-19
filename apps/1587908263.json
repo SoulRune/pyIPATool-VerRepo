@@ -2,14 +2,14 @@
  "appId": 1587908263,
  "arcade": true,
  "bundleId": "com.headupgames.bridgeconstructor-arcade",
- "latestExternalVersionId": "892407416",
+ "latestExternalVersionId": "893671542",
  "name": "Bridge Constructor+",
  "schema": 1,
  "store": {
   "date": "2026-11-10T20:42:46Z",
   "version": "15.3"
  },
- "updatedAt": "2026-11-15T07:05:54Z",
+ "updatedAt": "2026-11-19T19:29:22Z",
  "versions": {
   "844360010": {
    "ageRating": "4+",
@@ -219,6 +219,7 @@
    "releaseDateDisplay": "Unknown (2022-02-04)",
    "size": 223132319,
    "status": "ok",
+   "storeLabel": "15.3",
    "version": "15.3.1169"
   }
  }
