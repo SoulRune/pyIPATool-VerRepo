@@ -2,14 +2,14 @@
  "appId": 6477922353,
  "arcade": true,
  "bundleId": "com.perchang.perchang2",
- "latestExternalVersionId": "891914676",
+ "latestExternalVersionId": "893980415",
  "name": "Perchang World",
  "schema": 1,
  "store": {
   "date": "2026-11-04T22:37:36Z",
   "version": "1.12"
  },
- "updatedAt": "2026-11-15T07:06:08Z",
+ "updatedAt": "2026-11-19T19:30:08Z",
  "versions": {
   "863779873": {
    "ageRating": "4+",
