@@ -2,14 +2,14 @@
  "appId": 6752314651,
  "arcade": true,
  "bundleId": "com.tapblaze.pizzabusinessplus",
- "latestExternalVersionId": "893483229",
+ "latestExternalVersionId": "894020217",
  "name": "Good Pizza, Great Pizza+",
  "schema": 1,
  "store": {
-  "date": "2026-10-23T20:52:35Z",
-  "version": "5.59.1"
+  "date": "2026-11-18T06:12:11Z",
+  "version": "5.61.0"
  },
- "updatedAt": "2026-11-15T07:05:57Z",
+ "updatedAt": "2026-11-19T19:29:32Z",
  "versions": {
   "877985306": {
    "ageRating": "4+",
@@ -384,6 +384,24 @@
    "status": "ok",
    "storeLabel": "5.59.1",
    "version": "5.59.1"
+  },
+  "894020217": {
+   "ageRating": "4+",
+   "artist": "TAPBLAZE",
+   "build": "291",
+   "checkedAt": "2026-11-19T19:29:32Z",
+   "copyright": "© TapBlaze",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-18T00:00:00",
+   "releaseDateDisplay": "2026-11-18",
+   "size": 391381029,
+   "status": "ok",
+   "storeLabel": "5.61.0",
+   "version": "5.61.0"
   }
  }
 }
