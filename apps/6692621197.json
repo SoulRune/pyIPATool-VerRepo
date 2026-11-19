@@ -2,14 +2,14 @@
  "appId": 6692621197,
  "arcade": true,
  "bundleId": "com.scarybeasties.playdohworld",
- "latestExternalVersionId": "891869010",
+ "latestExternalVersionId": "893685938",
  "name": "Play-Doh World",
  "schema": 1,
  "store": {
-  "date": "2026-10-21T21:32:52Z",
-  "version": "1.14.0"
+  "date": "2026-11-18T22:56:07Z",
+  "version": "1.15.0"
  },
- "updatedAt": "2026-11-15T07:06:57Z",
+ "updatedAt": "2026-11-19T19:31:56Z",
  "versions": {
   "869058800": {
    "ageRating": "4+",
@@ -383,6 +383,24 @@
    "status": "ok",
    "storeLabel": "1.14.0",
    "version": "1.14.0"
+  },
+  "893685938": {
+   "ageRating": "4+",
+   "artist": "Scary Beasties Ltd",
+   "build": "12522",
+   "checkedAt": "2026-11-19T19:31:56Z",
+   "copyright": "Play-Doh is a trademark of Hasbro and is used with permission. © 2026 Hasbro. All rights reserved. Licensed by Hasbro. © 2025 Scary Beasties Limited",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-18T00:00:00",
+   "releaseDateDisplay": "2026-11-18",
+   "size": 1029030188,
+   "status": "ok",
+   "storeLabel": "1.15.0",
+   "version": "1.15.0"
   }
  }
 }
