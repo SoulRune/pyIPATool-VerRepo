@@ -2,14 +2,14 @@
  "appId": 6443553808,
  "arcade": true,
  "bundleId": "com.kooapps.snakearcade",
- "latestExternalVersionId": "888395732",
+ "latestExternalVersionId": "893992291",
  "name": "Snake.io+",
  "schema": 1,
  "store": {
   "date": "2026-11-04T22:51:06Z",
   "version": "1.0.19"
  },
- "updatedAt": "2026-11-15T07:06:17Z",
+ "updatedAt": "2026-11-19T18:27:08Z",
  "versions": {
   "852451488": {
    "ageRating": "4+",
@@ -348,6 +348,7 @@
    "releaseDateDisplay": "Unknown (2023-05-04)",
    "size": 109525638,
    "status": "ok",
+   "storeLabel": "1.0.19",
    "version": "1.0.19"
   }
  }
