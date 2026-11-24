@@ -2,14 +2,14 @@
  "appId": 6456945575,
  "arcade": true,
  "bundleId": "com.gameloft.DisneyDreamlightValley.arcade",
- "latestExternalVersionId": "894896019",
+ "latestExternalVersionId": "895592963",
  "name": "Disney Dreamlight Valley",
  "schema": 1,
  "store": {
-  "date": "2026-11-18T13:56:39Z",
-  "version": "1.26.1"
+  "date": "2026-11-20T22:31:23Z",
+  "version": "1.26.2"
  },
- "updatedAt": "2026-11-19T19:21:45Z",
+ "updatedAt": "2026-11-24T09:38:42Z",
  "versions": {
   "858905675": {
    "ageRating": "4+",
@@ -701,6 +701,23 @@
    "status": "ok",
    "storeLabel": "1.26.1",
    "version": "1.26.1"
+  },
+  "895592963": {
+   "ageRating": "4+",
+   "artist": "Gameloft",
+   "build": "330192",
+   "checkedAt": "2026-11-24T09:38:42Z",
+   "copyright": "© 2023 Disney. © 2023 Disney/Pixar. © 2023 Gameloft. All Rights Reserved.",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "14.0",
+   "minimumOsName": "iOS",
+   "releaseDateDisplay": "Unknown (2023-12-05)",
+   "size": 3376358954,
+   "status": "ok",
+   "storeLabel": "1.26.2",
+   "version": "1.26.2"
   }
  }
 }
