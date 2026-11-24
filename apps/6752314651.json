@@ -2,14 +2,14 @@
  "appId": 6752314651,
  "arcade": true,
  "bundleId": "com.tapblaze.pizzabusinessplus",
- "latestExternalVersionId": "894020217",
+ "latestExternalVersionId": "895593509",
  "name": "Good Pizza, Great Pizza+",
  "schema": 1,
  "store": {
   "date": "2026-11-20T21:04:45Z",
   "version": "5.61.2"
  },
- "updatedAt": "2026-11-24T09:46:49Z",
+ "updatedAt": "2026-11-24T20:14:02Z",
  "versions": {
   "877985306": {
    "ageRating": "4+",
@@ -417,6 +417,7 @@
    "releaseDateDisplay": "Unknown (2026-05-07)",
    "size": 396748506,
    "status": "ok",
+   "storeLabel": "5.61.2",
    "version": "5.61.2"
   }
  }
