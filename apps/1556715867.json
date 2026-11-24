@@ -2,14 +2,14 @@
  "appId": 1556715867,
  "arcade": true,
  "bundleId": "com.mobilityware.SolitaireAA",
- "latestExternalVersionId": "894107647",
+ "latestExternalVersionId": "895766041",
  "name": "Solitaire by MobilityWare+",
  "schema": 1,
  "store": {
-  "date": "2026-11-11T01:58:49Z",
-  "version": "9.9.0"
+  "date": "2026-11-21T02:44:17Z",
+  "version": "9.9.1"
  },
- "updatedAt": "2026-11-20T16:07:19Z",
+ "updatedAt": "2026-11-24T09:52:55Z",
  "versions": {
   "840750098": {
    "ageRating": "4+",
@@ -436,6 +436,24 @@
    "status": "ok",
    "storeLabel": "9.9.0",
    "version": "9.9.0"
+  },
+  "895766041": {
+   "ageRating": "4+",
+   "artist": "MobilityWare",
+   "build": "9.9.1.6928",
+   "checkedAt": "2026-11-24T09:52:55Z",
+   "copyright": "© 2021 MobilityWare",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.6",
+   "minimumOsName": "iOS",
+   "releaseDate": "2026-11-21T00:00:00",
+   "releaseDateDisplay": "2026-11-21",
+   "size": 233087643,
+   "status": "ok",
+   "storeLabel": "9.9.1",
+   "version": "9.9.1"
   }
  }
 }
