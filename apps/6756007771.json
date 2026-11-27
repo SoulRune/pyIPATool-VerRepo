@@ -6,10 +6,10 @@
  "name": "Creatures of the Deep+",
  "schema": 1,
  "store": {
-  "date": "2026-10-21T21:33:06Z",
-  "version": "1.09"
+  "date": "2026-11-26T18:04:03Z",
+  "version": "1.10"
  },
- "updatedAt": "2026-11-24T09:45:20Z",
+ "updatedAt": "2026-11-27T10:49:50Z",
  "versions": {
   "880270334": {
    "ageRating": "4+",
@@ -179,6 +179,38 @@
    "status": "ok",
    "storeLabel": "1.09",
    "version": "1.09"
+  },
+  "895412392": {
+   "ageRating": "4+",
+   "artist": "Infinite Dreams Inc.",
+   "build": "15",
+   "checkedAt": "2026-11-27T10:49:50Z",
+   "copyright": "© Infinite Dreams 2022-2026",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDateDisplay": "Unknown (2026-07-02)",
+   "size": 288769259,
+   "status": "ok",
+   "version": "1.10"
+  },
+  "895739685": {
+   "ageRating": "4+",
+   "artist": "Infinite Dreams Inc.",
+   "build": "15",
+   "checkedAt": "2026-11-27T10:49:46Z",
+   "copyright": "© Infinite Dreams 2022-2026",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "15.0",
+   "minimumOsName": "iOS",
+   "releaseDateDisplay": "Unknown (2026-07-02)",
+   "size": 288769259,
+   "status": "ok",
+   "version": "1.10"
   }
  }
 }
