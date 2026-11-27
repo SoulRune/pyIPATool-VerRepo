@@ -2,14 +2,14 @@
  "appId": 6766824098,
  "arcade": true,
  "bundleId": "com.arcade.block.blast",
- "latestExternalVersionId": "895203423",
+ "latestExternalVersionId": "893144217",
  "name": "Block Blast!+",
  "schema": 1,
  "store": {
   "date": "2026-11-18T22:56:20Z",
   "version": "1.0.5"
  },
- "updatedAt": "2026-11-24T09:38:11Z",
+ "updatedAt": "2026-11-27T10:46:49Z",
  "versions": {
   "885320699": {
    "ageRating": "4+",
