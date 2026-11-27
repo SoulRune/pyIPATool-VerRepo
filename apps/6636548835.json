@@ -2,14 +2,14 @@
  "appId": 6636548835,
  "arcade": true,
  "bundleId": "com.monstronauts.potionpunch2plus",
- "latestExternalVersionId": "895609419",
+ "latestExternalVersionId": "894117267",
  "name": "Potion Punch 2+",
  "schema": 1,
  "store": {
   "date": "2026-11-20T21:54:06Z",
   "version": "1.53.01"
  },
- "updatedAt": "2026-11-24T20:16:05Z",
+ "updatedAt": "2026-11-27T10:52:22Z",
  "versions": {
   "868238584": {
    "ageRating": "4+",
