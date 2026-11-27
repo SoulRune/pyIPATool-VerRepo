@@ -2,14 +2,14 @@
  "appId": 1463360242,
  "arcade": true,
  "bundleId": "jp.co.bandainamcoent.BNEI0361",
- "latestExternalVersionId": "895204517",
+ "latestExternalVersionId": "891510745",
  "name": "Taiko no Tatsujin Pop Tap Beat",
  "schema": 1,
  "store": {
   "date": "2026-11-18T22:57:04Z",
   "version": "2.1.0"
  },
- "updatedAt": "2026-11-24T09:42:26Z",
+ "updatedAt": "2026-11-27T10:48:28Z",
  "versions": {
   "831285082": {
    "ageRating": "4+",
