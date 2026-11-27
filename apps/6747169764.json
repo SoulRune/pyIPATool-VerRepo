@@ -2,14 +2,14 @@
  "appId": 6747169764,
  "arcade": true,
  "bundleId": "com.505games.terrariaarcade",
- "latestExternalVersionId": "894486080",
+ "latestExternalVersionId": "890632284",
  "name": "Terraria+",
  "schema": 1,
  "store": {
   "date": "2026-11-24T17:00:28Z",
   "version": "1.4.6"
  },
- "updatedAt": "2026-11-24T19:41:38Z",
+ "updatedAt": "2026-11-27T10:48:15Z",
  "versions": {
   "875528687": {
    "ageRating": "13+",
