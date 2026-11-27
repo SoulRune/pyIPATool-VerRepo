@@ -2,14 +2,14 @@
  "appId": 1535011471,
  "arcade": true,
  "bundleId": "com.tactilegames.simonscatstorytime",
- "latestExternalVersionId": "894705469",
+ "latestExternalVersionId": "892259840",
  "name": "Simon's Cat - Blast Time",
  "schema": 1,
  "store": {
   "date": "2026-11-18T22:59:38Z",
   "version": "1.68.0"
  },
- "updatedAt": "2026-11-24T09:47:56Z",
+ "updatedAt": "2026-11-27T10:50:56Z",
  "versions": {
   "838123620": {
    "ageRating": "9+",
