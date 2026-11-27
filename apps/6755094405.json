@@ -2,14 +2,14 @@
  "appId": 6755094405,
  "arcade": true,
  "bundleId": "com.oinkgames.dagarcade",
- "latestExternalVersionId": "893722645",
+ "latestExternalVersionId": "893041212",
  "name": "Let's Play! Oink Games+",
  "schema": 1,
  "store": {
   "date": "2026-11-16T22:59:21Z",
   "version": "9.2.4"
  },
- "updatedAt": "2026-11-24T09:48:52Z",
+ "updatedAt": "2026-11-27T10:51:18Z",
  "versions": {
   "879626355": {
    "ageRating": "13+",
