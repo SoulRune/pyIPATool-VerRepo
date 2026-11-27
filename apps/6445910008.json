@@ -2,14 +2,14 @@
  "appId": 6445910008,
  "arcade": true,
  "bundleId": "com.toshi.ppkp",
- "latestExternalVersionId": "895336373",
+ "latestExternalVersionId": "894589768",
  "name": "PPKP+",
  "schema": 1,
  "store": {
   "date": "2026-11-17T22:46:30Z",
   "version": "0.5.3"
  },
- "updatedAt": "2026-11-24T09:41:31Z",
+ "updatedAt": "2026-11-27T10:48:09Z",
  "versions": {
   "855223966": {
    "ageRating": "13+",
