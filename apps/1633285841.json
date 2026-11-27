@@ -2,14 +2,14 @@
  "appId": 1633285841,
  "arcade": true,
  "bundleId": "com.imangi.templerunplus",
- "latestExternalVersionId": "894249659",
+ "latestExternalVersionId": "885137053",
  "name": "Temple Run+",
  "schema": 1,
  "store": {
   "date": "2026-11-18T18:51:13Z",
   "version": "1.19"
  },
- "updatedAt": "2026-11-24T09:41:24Z",
+ "updatedAt": "2026-11-27T10:48:03Z",
  "versions": {
   "850661579": {
    "ageRating": "9+",
