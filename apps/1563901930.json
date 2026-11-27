@@ -6,10 +6,10 @@
  "name": "Cooking Mama: Cuisine!",
  "schema": 1,
  "store": {
-  "date": "2026-11-11T22:50:57Z",
-  "version": "1.45.0"
+  "date": "2026-11-25T23:00:39Z",
+  "version": "1.45.1"
  },
- "updatedAt": "2026-11-24T09:49:43Z",
+ "updatedAt": "2026-11-27T10:51:44Z",
  "versions": {
   "841642393": {
    "ageRating": "4+",
@@ -1079,6 +1079,22 @@
    "status": "ok",
    "storeLabel": "1.45.0",
    "version": "1.45.0"
+  },
+  "895104524": {
+   "ageRating": "4+",
+   "artist": "Office Create Corp.",
+   "build": "97",
+   "checkedAt": "2026-11-27T10:51:44Z",
+   "copyright": "© OFFICE CREATE",
+   "details": 1,
+   "genre": "Games",
+   "listedByApple": true,
+   "minimumOs": "13.0",
+   "minimumOsName": "iOS",
+   "releaseDateDisplay": "Unknown (2022-06-17)",
+   "size": 274665761,
+   "status": "ok",
+   "version": "1.45.1"
   }
  }
 }
