@@ -2,14 +2,14 @@
  "appId": 1625907876,
  "arcade": true,
  "bundleId": "com.mtvn.tmntsplinteredfate",
- "latestExternalVersionId": "894922903",
+ "latestExternalVersionId": "893458039",
  "name": "TMNT Splintered Fate",
  "schema": 1,
  "store": {
   "date": "2026-11-16T22:36:51Z",
   "version": "2.1.1"
  },
- "updatedAt": "2026-11-24T09:42:45Z",
+ "updatedAt": "2026-11-27T10:48:34Z",
  "versions": {
   "849426659": {
    "ageRating": "13+",
