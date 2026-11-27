@@ -2,14 +2,14 @@
  "appId": 1539411904,
  "arcade": true,
  "bundleId": "com.cornfox.oceanhorn3",
- "latestExternalVersionId": "893977999",
+ "latestExternalVersionId": "890043987",
  "name": "Oceanhorn 3",
  "schema": 1,
  "store": {
   "date": "2026-11-17T16:32:35Z",
   "version": "2.2.0"
  },
- "updatedAt": "2026-11-24T09:38:55Z",
+ "updatedAt": "2026-11-27T10:47:26Z",
  "versions": {
   "838790606": {
    "ageRating": "9+",
