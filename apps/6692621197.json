@@ -2,14 +2,14 @@
  "appId": 6692621197,
  "arcade": true,
  "bundleId": "com.scarybeasties.playdohworld",
- "latestExternalVersionId": "893685938",
+ "latestExternalVersionId": "891869010",
  "name": "Play-Doh World",
  "schema": 1,
  "store": {
   "date": "2026-11-18T22:56:07Z",
   "version": "1.15.0"
  },
- "updatedAt": "2026-11-24T09:49:18Z",
+ "updatedAt": "2026-11-27T10:51:29Z",
  "versions": {
   "869058800": {
    "ageRating": "4+",
